@@ -1,0 +1,90 @@
+<!-- Page.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- D3.js を読み込む -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="script.js"></script> <!-- 新しい外部ファイルを追加 -->
+    <style>
+        body {
+        display: flex;
+        margin: 0;
+        height: 100vh;
+      }
+
+      #leftPanel {
+        flex: 1;
+        overflow: auto;
+      }
+
+      #rightPanel {
+        flex: 1;
+        overflow: auto;
+      }
+
+      .tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 8px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
+
+      .axis {
+        font-size: 12px;
+      }
+
+      .timeline {
+        fill: lightgray;
+      }
+
+      .highlighted {
+        fill: steelblue;
+      }
+
+      .timelineDetail {
+        margin-top: 20px;
+      }
+
+      .timelineBar {
+        fill: lightgray;
+      }
+
+      .timelineBarHighlighted {
+        fill: steelblue;
+      }
+    </style>
+</head>
+
+<body>
+    <!-- ... 今までの body タグ内のコード ... -->
+    <!-- 左パネル（相関図やノードの並び替え） -->
+    <div id="leftPanel">
+        <!-- タイムラインボタン -->
+        <button onclick="toggleTimeline()">タイムライン</button>
+  
+        <!-- プルダウンメニュー -->
+        <select id="sortSelect" onchange="changeSortOrder()">
+          <option value="birthYear">生年順</option>
+          <option value="number">番号順</option>
+        </select>
+  
+        <!-- チャートを描画するためのコンテナ -->
+        <div id="chart"></div>
+      </div>
+  
+      <!-- 右パネル（詳細なタイムライン） -->
+      <div id="rightPanel">
+        <!-- ノードの詳細タイムライン -->
+        <svg id="timelineDetail" class="timelineDetail" width="600" height="100"></svg>
+        <!-- ノードの抽出された文表示 -->
+        <div id="extractedSentences"></div>
+      </div>
+</body>
+
+</html>
