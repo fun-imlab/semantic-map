@@ -4,46 +4,20 @@ var timelineSeirekiData;  // timeline_seireki.json データを格納する変�
 
 // JSON データの読み込み
 Promise.all([
-    d3.json("soukan_all.json"),
-    d3.json("timeline_all_new.json"),
-    d3.json("timeline_seireki.json")
+  d3.json("soukan_all.json"),
+  d3.json("timeline_all_new.json"),
+  d3.json("timeline_seireki.json")
 ]).then(function (data) {
-    // 各JSONデータの取得
-    var soukanData = data[0];
-    var timelineAllData = data[1];
-    timelineSeirekiData = data[2];  // timelineSeirekiData をグローバルに設定
+  // 各JSONデータの取得
+  var soukanData = data[0];
+  var timelineAllData = data[1];
+  timelineSeirekiData = data[2];  // timelineSeirekiData をグローバルに設定
 
-    // 画像の読み込み
-    Promise.all(timelineAllData.map(d => loadImage("image/images/" + d.image)))
-        .then(function (images) {
-            // 画像を各ノードに紐付け
-            timelineAllData.forEach((d, i) => {
-                d.imageData = images[i];
-            });
-
-            // 相関図の描画
-            drawChart(soukanData, timelineAllData);
-        })
-        .catch(function (error) {
-            console.error("Error loading images:", error);
-        });
+  // 相関図の描画
+  drawChart(soukanData, timelineAllData);
 }).catch(function (error) {
-    console.error("Error loading JSON data:", error);
+  console.error("Error loading JSON data:", error);
 });
-
-// 画像の読み込みを行う関数
-function loadImage(url) {
-    return new Promise(function (resolve, reject) {
-        var img = new Image();
-        img.onload = function () {
-            resolve(img);
-        };
-        img.onerror = function () {
-            reject(new Error("Image load failed: " + url));
-        };
-        img.src = url;
-    });
-}
 
 // 年号不詳のカテゴリを作成
 var unknownCategory = "年号不詳";
@@ -74,8 +48,7 @@ function drawChart(soukanData, timelineData) {
           id: i,  // ノードの ID を追加
           name: d.名前,
           birthYear: birthYear,
-          deathYear: deathYear,
-          image: d.画像  // 画像の情報を追加
+          deathYear: deathYear
       };
   });
 
@@ -132,12 +105,14 @@ function drawChart(soukanData, timelineData) {
       .style("stroke", function (d) { return d.count > 1 ? "blue" : "black"; })  // リンクの色を青または黒に変更
       .style("stroke-width", 1);  // リンクの幅を1に変更
 
+  // ノードの描画
   var node = svg.selectAll(".node")
       .data(nodes)
-      .enter().append("circle")
+      .enter().append("g")
       .attr("class", "node")
-      .attr("r", 20) // ノードの半径を変更
-      .style("fill", "steelblue")
+      .attr("transform", function (d) {
+          return "translate(" + d.x + "," + d.y + ")";
+      })
       .on("mouseover", function (event, d) {
           tooltip.transition()
               .duration(200)
@@ -150,23 +125,24 @@ function drawChart(soukanData, timelineData) {
           tooltip.transition()
               .duration(500)
               .style("opacity", 0);
+      });
+
+  // 画像の描画
+  node.append("image")
+      .attr("xlink:href", function (d) {
+          // ノードの画像があるかどうかを確認
+          if (d.image) {
+              // GitHub Pagesでの画像のパス
+              return "image/images/" + d.image;
+          } else {
+              // 画像が指定されていない場合のデフォルト画像のパス
+              return "image/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
+          }
       })
-      .on("click", function (event, d) {
-        drawTimelineDetail(d);
-        displayExtractedSentences(d);
-        drawRedLines(d);
-    });
-
-    node.append("svg:image")
-        .attr("xlink:href", function (d) {
-            // ノードに紐付いた画像データを使用
-            return d.imageData.src;
-        })
-        .attr("x", -16)
-        .attr("y", -16)
-        .attr("width", 32)
-        .attr("height", 32);
-
+      .attr("x", -20)  // 画像の幅の半分だけ左にずらす
+      .attr("y", -20)  // 画像の高さの半分だけ上にずらす
+      .attr("width", 40)  // 画像の幅
+      .attr("height", 40);  // 画像の高さ
 
   var ticked = function () {
       link
