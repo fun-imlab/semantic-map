@@ -133,7 +133,7 @@ function drawChart(soukanData, timelineData) {
 
     node.append("image")
       .attr("xlink:href", function (d) {
-          return "images/" + d.image;  // 画像のパスを正しく解決
+          return  d.image;  // 画像のパスを正しく解決
       })
       .attr("x", -16)
       .attr("y", -16)
