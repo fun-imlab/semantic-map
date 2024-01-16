@@ -48,7 +48,8 @@ function drawChart(soukanData, timelineData) {
           id: i,  // ノードの ID を追加
           name: d.名前,
           birthYear: birthYear,
-          deathYear: deathYear
+          deathYear: deathYear,
+          image : d.画像
       };
   });
 
@@ -136,7 +137,7 @@ function drawChart(soukanData, timelineData) {
               return "image/images/" + d.image;
           } else {
               // 画像が指定されていない場合のデフォルト画像のパス
-              return "image/images//images/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
+              return "image/images/images/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
           }
       })
       .attr("x", -20)  // 画像の幅の半分だけ左にずらす
@@ -152,8 +153,9 @@ function drawChart(soukanData, timelineData) {
           .attr("y2", function (d) { return calculateIntersection(d.target, d.source, "y"); });
 
       node
-          .attr("cx", function (d) { return d.x; })
-          .attr("cy", function (d) { return d.y; });
+      .attr("transform", function (d) {
+        return "translate(" + d.x + "," + d.y + ")";
+    });
   };
 
   simulation.on("tick", ticked);
@@ -178,54 +180,59 @@ function drawChart(soukanData, timelineData) {
   }
 
   // タイムラインボタンがクリックされたときの処理
-  window.toggleTimeline = function () {
-      if (simulation) {
-          simulation.stop();
-          svg.selectAll(".link").remove();
-          svg.selectAll(".arrow").remove();
-          svg.selectAll(".axis").remove();
-          simulation = null;
+window.toggleTimeline = function () {
+    if (simulation) {
+        simulation.stop();
+        svg.selectAll(".link").remove();
+        svg.selectAll(".arrow").remove();
+        svg.selectAll(".axis").remove();
+        simulation = null;
 
-          // 生年が数値でないか、18??のノードを年号不詳のカテゴリにまとめる
-          nodes.forEach(function (d) {
-              if (!isNumeric(d.birthYear) || d.birthYear === 18) {
-                  d.birthYear = unknownCategory;
-              }
-              if (!isNumeric(d.deathYear) || d.deathYear === 18) {
-                  d.deathYear = unknownCategory;
-              }
-          });
+        // 生年が数値でないか、18??のノードを年号不詳のカテゴリにまとめる
+        nodes.forEach(function (d) {
+            if (!isNumeric(d.birthYear) || d.birthYear === 18) {
+                d.birthYear = unknownCategory;
+            }
+            if (!isNumeric(d.deathYear) || d.deathYear === 18) {
+                d.deathYear = unknownCategory;
+            }
+        });
 
-          // プルダウンで指定されたソート順でノードをソート
-          nodes.sort(sortNodes);
+        // プルダウンで指定されたソート順でノードをソート
+        nodes.sort(sortNodes);
 
-          var xScale = d3.scaleLinear().domain([d3.min(nodes, d => d.birthYear), d3.max(nodes, d => d.birthYear)]).range([80, width - 80]);
+        var xScale = d3.scaleLinear().domain([d3.min(nodes, d => d.birthYear), d3.max(nodes, d => d.birthYear)]).range([80, width - 80]);
 
-          nodes.forEach(function (d, i) {
-              d.x = xScale(d.birthYear);
-              d.y = i * 40 + height / 4;  // 左から右下の方向に配置
-          });
+        nodes.forEach(function (d, i) {
+            d.x = xScale(d.birthYear);
+            d.y = i * 40 + height / 4;  // 左から右下の方向に配置
+        });
 
-          // x 軸の描画
-          var xAxis = d3.axisBottom().scale(xScale);
+        // x 軸の描画
+        var xAxis = d3.axisBottom().scale(xScale);
 
-          svg.append("g")
-              .attr("class", "axis")
-              .attr("transform", "translate(0, 30)")  // 上に配置
-              .call(xAxis);
+        svg.append("g")
+            .attr("class", "axis")
+            .attr("transform", "translate(0, 30)")  // 上に配置
+            .call(xAxis);
 
-          // ノードの再描画
-          svg.selectAll(".node")
-              .data(nodes)
-              .transition()
-              .duration(500)
-              .attr("cx", function (d) { return d.x; })
-              .attr("cy", function (d) { return d.y; });
-      } else {
-          // 相関図の再描画
-          drawChart(soukanData, timelineData);
-      }
-  };
+        // ノードの再描画
+        svg.selectAll(".node")
+            .data(nodes)
+            .transition()
+            .duration(500)
+            .attr("transform", function (d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            });
+
+        // 相関図の再描画
+        drawChart(soukanData, timelineData);
+    } else {
+        // 相関図の再描画
+        drawChart(soukanData, timelineData);
+    }
+};
+
 
   // ノードの詳細タイムラインの描画
 function drawTimelineDetail(nodeData) {
@@ -363,52 +370,54 @@ function highlightExtractedSentences(year) {
 
 // プルダウンの変更時の処理
 window.changeSortOrder = function () {
-  // プルダウンで指定されたソート順を更新
-  currentSortOrder = document.getElementById("sortSelect").value;
+    // プルダウンで指定されたソート順を更新
+    currentSortOrder = document.getElementById("sortSelect").value;
 
-  // 生年が数値でないか、18??のノードを年号不詳のカテゴリにまとめる
-  nodes.forEach(function (d) {
-      if (!isNumeric(d.birthYear) || d.birthYear === 18) {
-          d.birthYear = unknownCategory;
-      }
-      if (!isNumeric(d.deathYear) || d.deathYear === 18) {
-          d.deathYear = unknownCategory;
-      }
-  });
+    // 生年が数値でないか、18??のノードを年号不詳のカテゴリにまとめる
+    nodes.forEach(function (d) {
+        if (!isNumeric(d.birthYear) || d.birthYear === 18) {
+            d.birthYear = unknownCategory;
+        }
+        if (!isNumeric(d.deathYear) || d.deathYear === 18) {
+            d.deathYear = unknownCategory;
+        }
+    });
 
-  // プルダウンで指定されたソート順でノードをソート
-  nodes.sort(sortNodes);
+    // プルダウンで指定されたソート順でノードをソート
+    nodes.sort(sortNodes);
 
-  // プルダウンが "番号順" の場合は、番号に基づいてノードを並び替え
-  if (currentSortOrder === "number") {
-      nodes.sort((a, b) => a.id - b.id);
-  }
+    // プルダウンが "番号順" の場合は、番号に基づいてノードを並び替え
+    if (currentSortOrder === "number") {
+        nodes.sort((a, b) => a.id - b.id);
+    }
 
-  var xScale = d3.scaleLinear().domain([d3.min(nodes, d => d.birthYear), d3.max(nodes, d => d.birthYear)]).range([80, width - 80]);
+    var xScale = d3.scaleLinear().domain([d3.min(nodes, d => d.birthYear), d3.max(nodes, d => d.birthYear)]).range([80, width - 80]);
 
-  nodes.forEach(function (d, i) {
-      d.x = xScale(d.birthYear);
-      d.y = i * 40 + height / 4;  // 左から右下の方向に配置
-  });
+    nodes.forEach(function (d, i) {
+        d.x = xScale(d.birthYear);
+        d.y = i * 40 + height / 4;  // 左から右下の方向に配置
+    });
 
-  // x 軸の描画
-  var xAxis = d3.axisBottom().scale(xScale);
+    // x 軸の描画
+    var xAxis = d3.axisBottom().scale(xScale);
 
-  svg.selectAll(".axis").remove();  // 既存の x 軸を削除
+    svg.selectAll(".axis").remove();  // 既存の x 軸を削除
 
-  svg.append("g")
-      .attr("class", "axis")
-      .attr("transform", "translate(0, 30)")  // 上に配置
-      .call(xAxis);
+    svg.append("g")
+        .attr("class", "axis")
+        .attr("transform", "translate(0, 30)")  // 上に配置
+        .call(xAxis);
 
-  // ノードの再描画
-  svg.selectAll(".node")
-      .data(nodes)
-      .transition()
-      .duration(500)
-      .attr("cx", function (d) { return d.x; })
-      .attr("cy", function (d) { return d.y; });
+    // ノードの再描画
+    svg.selectAll(".node")
+        .data(nodes)
+        .transition()
+        .duration(500)
+        .attr("transform", function (d) {
+            return "translate(" + d.x + "," + d.y + ")";
+        });
 };
+
 
 // 年号を正しく表示するための関数
 function displayYear(year) {
