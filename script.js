@@ -131,14 +131,7 @@ function drawChart(soukanData, timelineData) {
         drawRedLines(d);
     });
 
-    node.append("image")
-      .attr("xlink:href", function (d) {
-          return "image/" + d.image;  // 画像のパスを正しく解決
-      })
-      .attr("x", -16)
-      .attr("y", -16)
-      .attr("width", 32)
-      .attr("height", 32);
+    return "image/images/" + d.image;
 
   var ticked = function () {
       link
