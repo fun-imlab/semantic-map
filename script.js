@@ -48,7 +48,8 @@ function drawChart(soukanData, timelineData) {
           id: i,  // ノードの ID を追加
           name: d.名前,
           birthYear: birthYear,
-          deathYear: deathYear
+          deathYear: deathYear,
+          image: d.画像  // 画像の情報を追加
       };
   });
 
@@ -105,45 +106,39 @@ function drawChart(soukanData, timelineData) {
       .style("stroke", function (d) { return d.count > 1 ? "blue" : "black"; })  // リンクの色を青または黒に変更
       .style("stroke-width", 1);  // リンクの幅を1に変更
 
-  // ノードの描画
-var node = svg.selectAll(".node")
-.data(nodes)
-.enter().append("g")
-.attr("class", "node")
-.attr("transform", function (d) {
-    return "translate(" + d.x + "," + d.y + ")";
-})
-.on("mouseover", function (event, d) {
-    tooltip.transition()
-        .duration(200)
-        .style("opacity", .9);
-    tooltip.html("<strong>" + d.name + "</strong><br>生年: " + displayYear(d.birthYear) + "<br>没年: " + displayYear(d.deathYear))
-        .style("left", (event.pageX + 5) + "px")
-        .style("top", (event.pageY - 28) + "px");
-})
-.on("mouseout", function (d) {
-    tooltip.transition()
-        .duration(500)
-        .style("opacity", 0);
-});
+  var node = svg.selectAll(".node")
+      .data(nodes)
+      .enter().append("circle")
+      .attr("class", "node")
+      .attr("r", 20) // ノードの半径を変更
+      .style("fill", "steelblue")
+      .on("mouseover", function (event, d) {
+          tooltip.transition()
+              .duration(200)
+              .style("opacity", .9);
+          tooltip.html("<strong>" + d.name + "</strong><br>生年: " + displayYear(d.birthYear) + "<br>没年: " + displayYear(d.deathYear))
+              .style("left", (event.pageX + 5) + "px")
+              .style("top", (event.pageY - 28) + "px");
+      })
+      .on("mouseout", function (d) {
+          tooltip.transition()
+              .duration(500)
+              .style("opacity", 0);
+      })
+      .on("click", function (event, d) {
+        drawTimelineDetail(d);
+        displayExtractedSentences(d);
+        drawRedLines(d);
+    });
 
-// 画像の描画
-node.append("image")
-.attr("xlink:href", function (d) {
-    // ノードの画像があるかどうかを確認
-    if (d.image) {
-        // GitHub Pagesでの画像のパス
-        return "image/images/" + d.image;
-    } else {
-        // 画像が指定されていない場合のデフォルト画像のパス
-        return "image/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
-    }
-})
-.attr("x", -20)  // 画像の幅の半分だけ左にずらす
-.attr("y", -20)  // 画像の高さの半分だけ上にずらす
-.attr("width", 40)  // 画像の幅
-.attr("height", 40);  // 画像の高さ
-
+    node.append("image")
+      .attr("xlink:href", function (d) {
+          return "image/images/" + d.image;  // 画像のパスを正しく解決
+      })
+      .attr("x", -16)
+      .attr("y", -16)
+      .attr("width", 32)
+      .attr("height", 32);
 
   var ticked = function () {
       link
