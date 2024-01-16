@@ -4,20 +4,46 @@ var timelineSeirekiData;  // timeline_seireki.json データを格納する変�
 
 // JSON データの読み込み
 Promise.all([
-  d3.json("soukan_all.json"),
-  d3.json("timeline_all_new.json"),
-  d3.json("timeline_seireki.json")
+    d3.json("soukan_all.json"),
+    d3.json("timeline_all_new.json"),
+    d3.json("timeline_seireki.json")
 ]).then(function (data) {
-  // 各JSONデータの取得
-  var soukanData = data[0];
-  var timelineAllData = data[1];
-  timelineSeirekiData = data[2];  // timelineSeirekiData をグローバルに設定
+    // 各JSONデータの取得
+    var soukanData = data[0];
+    var timelineAllData = data[1];
+    timelineSeirekiData = data[2];  // timelineSeirekiData をグローバルに設定
 
-  // 相関図の描画
-  drawChart(soukanData, timelineAllData);
+    // 画像の読み込み
+    Promise.all(timelineAllData.map(d => loadImage("image/images/" + d.image)))
+        .then(function (images) {
+            // 画像を各ノードに紐付け
+            timelineAllData.forEach((d, i) => {
+                d.imageData = images[i];
+            });
+
+            // 相関図の描画
+            drawChart(soukanData, timelineAllData);
+        })
+        .catch(function (error) {
+            console.error("Error loading images:", error);
+        });
 }).catch(function (error) {
-  console.error("Error loading JSON data:", error);
+    console.error("Error loading JSON data:", error);
 });
+
+// 画像の読み込みを行う関数
+function loadImage(url) {
+    return new Promise(function (resolve, reject) {
+        var img = new Image();
+        img.onload = function () {
+            resolve(img);
+        };
+        img.onerror = function () {
+            reject(new Error("Image load failed: " + url));
+        };
+        img.src = url;
+    });
+}
 
 // 年号不詳のカテゴリを作成
 var unknownCategory = "年号不詳";
@@ -131,14 +157,15 @@ function drawChart(soukanData, timelineData) {
         drawRedLines(d);
     });
 
-    node.append("image")
-    .attr("xlink:href", function (d) {
-        return "image/images/" + d.image;  // 画像のパスを正しく解決
-    })
-    .attr("x", -16)
-    .attr("y", -16)
-    .attr("width", 32)
-    .attr("height", 32);
+    node.append("svg:image")
+        .attr("xlink:href", function (d) {
+            // ノードに紐付いた画像データを使用
+            return d.imageData.src;
+        })
+        .attr("x", -16)
+        .attr("y", -16)
+        .attr("width", 32)
+        .attr("height", 32);
 
 
   var ticked = function () {
