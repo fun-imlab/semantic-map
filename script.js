@@ -136,7 +136,7 @@ function drawChart(soukanData, timelineData) {
               return "image/images/" + d.image;
           } else {
               // 画像が指定されていない場合のデフォルト画像のパス
-              return "image/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
+              return "image/images//images/unknown.jpg"; // デフォルト画像のパスを適切に指定してください
           }
       })
       .attr("x", -20)  // 画像の幅の半分だけ左にずらす
