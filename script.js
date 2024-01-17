@@ -1,16 +1,18 @@
 // スクリプトの冒頭で変数を宣言し、デフォルトのソート順を設定
 var currentSortOrder = "birthYear";
-var timelineSeirekiData;  // timeline_seireki.json データを格納する変数を追加
-
+//var timelineSeirekiData;  // timeline_seireki.json データを格納する変数を追加
+var timelineAllData;
 // JSON データの読み込み
 Promise.all([
   d3.json("soukan_all.json"),
-  d3.json("timeline_all_new.json"),
+  //d3.json("timeline_all_new.json"),
+  d3.json("konba-to.json"),
   d3.json("timeline_seireki.json")
 ]).then(function (data) {
   // 各JSONデータの取得
   var soukanData = data[0];
-  var timelineAllData = data[1];
+  //var timelineAllData = data[1];
+  timelineAllData = data[1];
   timelineSeirekiData = data[2];  // timelineSeirekiData をグローバルに設定
 
   // 相関図の描画
@@ -128,6 +130,17 @@ function drawChart(soukanData, timelineData) {
               .style("opacity", 0);
       });
 
+      // 四角形の描画
+node.append("rect")
+.attr("x", -22)  // 左右に余白を持たせる
+.attr("y", -22)  // 上下に余白を持たせる
+.attr("width", 44)  // 画像の幅 + 2 * 2
+.attr("height", 44)  // 画像の高さ + 2 * 2
+.style("fill", "transparent")
+.style("stroke", "transparent")  // 枠の色
+.style("stroke-width", 2);  // 枠の幅
+
+
   // 画像の描画
   node.append("image")
       .attr("xlink:href", function (d) {
@@ -144,6 +157,18 @@ function drawChart(soukanData, timelineData) {
       .attr("y", -20)  // 画像の高さの半分だけ上にずらす
       .attr("width", 40)  // 画像の幅
       .attr("height", 40);  // 画像の高さ
+
+      // ノードの検索処理
+window.searchNodes = function () {
+    var searchText = document.getElementById("searchInput").value.toLowerCase();
+
+    svg.selectAll(".node")
+        .select("rect")
+        .style("stroke", function (d) {
+            var isMatching = searchText.length > 0 && d.name.toLowerCase().includes(searchText);
+            return isMatching ? "red" : "transparent";
+        });
+}
 
   var ticked = function () {
       link
@@ -224,9 +249,7 @@ window.toggleTimeline = function () {
             .attr("transform", function (d) {
                 return "translate(" + d.x + "," + d.y + ")";
             });
-
-        // 相関図の再描画
-        drawChart(soukanData, timelineData);
+            
     } else {
         // 相関図の再描画
         drawChart(soukanData, timelineData);
@@ -296,10 +319,10 @@ var extractedSentencesContainer = document.getElementById("extractedSentences");
 extractedSentencesContainer.innerHTML = "";
 
 // 該当する名前列を検索し、一致する行の"抽出された文"を表示
-timelineSeirekiData.forEach(function (entry) {
+timelineAllData.forEach(function (entry) {
     if (entry.名前 === nodeData.name) {
         var extractedSentence = document.createElement("p");
-        extractedSentence.textContent = entry.抽出された文;
+        extractedSentence.textContent = entry.本文;
         extractedSentencesContainer.appendChild(extractedSentence);
     }
 });
