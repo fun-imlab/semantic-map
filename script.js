@@ -1,12 +1,12 @@
 // スクリプトの冒頭で変数を宣言し、デフォルトのソート順を設定
 var currentSortOrder = "birthYear";
-//var timelineSeirekiData;  // timeline_seireki.json データを格納する変数を追加
+var timelineSeirekiData;  // timeline_seireki.json データを格納する変数を追加
 var timelineAllData;
 // JSON データの読み込み
 Promise.all([
   d3.json("soukan_all.json"),
-  //d3.json("timeline_all_new.json"),
-  d3.json("konba-to.json"),
+  d3.json("timeline_all_new.json"),
+  //d3.json("konba-to.json"),
   d3.json("timeline_seireki.json")
 ]).then(function (data) {
   // 各JSONデータの取得
@@ -302,8 +302,10 @@ function drawTimelineDetail(nodeData) {
   // ノードの詳細タイムラインと抽出された文の表示
 svg.selectAll(".node")
 .on("click", function (event, d) {
+    displayNameSentences(d);
     drawTimelineDetail(d);
     displayExtractedSentences(d);
+    toggleNodeDetail(d);
     drawRedLines(d);
 });
 
@@ -314,19 +316,66 @@ svg.selectAll(".redLine")
 });
 
 // ノードに関連する抽出された文を表示する関数
+function displayNameSentences(nodeData) {
+    var nameSentencesContainer = document.getElementById("nameSentence");
+    nameSentencesContainer.innerHTML = "";
+    
+    // 該当する名前列を検索し、一致する行の"抽出された文"を表示
+    timelineAllData.forEach(function (entry) {
+        if (entry.名前 === nodeData.name) {
+            var nameSentence = document.createElement("p");
+            nameSentence.textContent = entry.名前;
+            nameSentence.style.fontSize = "20px";  // フォントサイズを変更
+            nameSentence.style.fontWeight = "bold";  // フォントの太さを変更
+            nameSentencesContainer.appendChild(nameSentence);
+        }
+    });
+    }
+
+// ノードに関連する抽出された文を表示する関数
 function displayExtractedSentences(nodeData) {
 var extractedSentencesContainer = document.getElementById("extractedSentences");
 extractedSentencesContainer.innerHTML = "";
 
 // 該当する名前列を検索し、一致する行の"抽出された文"を表示
-timelineAllData.forEach(function (entry) {
+timelineSeirekiData.forEach(function (entry) {
     if (entry.名前 === nodeData.name) {
         var extractedSentence = document.createElement("p");
-        extractedSentence.textContent = entry.本文;
+        extractedSentence.textContent = entry.抽出された文;
         extractedSentencesContainer.appendChild(extractedSentence);
     }
 });
 }
+// ノードがクリックされたときの処理を追加
+function toggleNodeDetail(nodeData) {
+    var urlSentenceContainer = document.getElementById("urlSentence");
+    urlSentenceContainer.innerHTML = "";  // 内容をクリア
+
+    // timeline_all_new.json から該当する名前のエントリを検索
+    var matchingEntry = timelineAllData.find(function (entry) {
+        return entry.名前 === nodeData.name;
+    });
+
+    if (matchingEntry) {
+        // URLがあれば表示
+        if (matchingEntry.URL) {
+            var urlLink = document.createElement("a");
+            urlLink.href = matchingEntry.URL;
+            urlLink.target = "_blank";  // 新しいタブで開く
+            urlLink.textContent = "元のサイト";
+            urlSentenceContainer.appendChild(urlLink);
+        }
+
+        // URL_2があれば表示
+        if (matchingEntry.URL_2) {
+            var url2Link = document.createElement("a");
+            url2Link.href = matchingEntry.URL_2;
+            url2Link.target = "_blank";  // 新しいタブで開く
+            url2Link.textContent = "元のサイト(後号）";
+            urlSentenceContainer.appendChild(url2Link);
+        }
+    }
+};
 
 // 追加: 赤い線を引く関数
 function drawRedLines(nodeData) {

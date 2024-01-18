@@ -5,7 +5,9 @@
         "年号": "1901年～1986年",
         "生年": "1901",
         "没年": "1986",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-akashi.html",
+        "URL_2": ""
     },
     {
         "番号": "2",
@@ -13,7 +15,9 @@
         "年号": "1905年～1937年",
         "生年": "1905",
         "没年": "1937",
-        "画像": "images/秋山富雄.jpg"
+        "画像": "images/秋山富雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-akiyama.html",
+        "URL_2": ""
     },
     {
         "番号": "3",
@@ -21,7 +25,9 @@
         "年号": "1888年～1936年",
         "生年": "1888",
         "没年": "1936",
-        "画像": "images/阿部覺治.jpg"
+        "画像": "images/阿部覺治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-abekaku.html",
+        "URL_2": ""
     },
     {
         "番号": "4",
@@ -29,7 +35,9 @@
         "年号": "1880年～1960年",
         "生年": "1880",
         "没年": "1960",
-        "画像": "images/阿部鑑.jpg"
+        "画像": "images/阿部鑑.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-abekan.html",
+        "URL_2": ""
     },
     {
         "番号": "5",
@@ -37,7 +45,9 @@
         "年号": "1892年～1984年",
         "生年": "1892",
         "没年": "1984",
-        "画像": "images/阿部たつを.jpg"
+        "画像": "images/阿部たつを.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-abetatsu.html",
+        "URL_2": ""
     },
     {
         "番号": "6",
@@ -45,7 +55,9 @@
         "年号": "1886年～1939年",
         "生年": "1886",
         "没年": "1939",
-        "画像": "images/アルハンゲリスキイ，ワシーリイ・ワシーリエヴィチ.jpg"
+        "画像": "images/アルハンゲリスキイ，ワシーリイ・ワシーリエヴィチ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-aruhan.html",
+        "URL_2": ""
     },
     {
         "番号": "7",
@@ -53,7 +65,9 @@
         "年号": "1840年～1893年",
         "生年": "1840",
         "没年": "1893",
-        "画像": "images/アレクサンドル・ドミートリエヴィチ・チハイ.jpg"
+        "画像": "images/アレクサンドル・ドミートリエヴィチ・チハイ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-arekusandoru.html",
+        "URL_2": ""
     },
     {
         "番号": "8",
@@ -61,7 +75,9 @@
         "年号": "1898年～1927年",
         "生年": "1898",
         "没年": "1927",
-        "画像": "images/生田喜代治.jpg"
+        "画像": "images/生田喜代治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ikuta.html",
+        "URL_2": ""
     },
     {
         "番号": "9",
@@ -69,7 +85,9 @@
         "年号": "1871年～1944年",
         "生年": "1871",
         "没年": "1944",
-        "画像": "images/池田種之助.jpg"
+        "画像": "images/池田種之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ikeda.html",
+        "URL_2": ""
     },
     {
         "番号": "10",
@@ -77,7 +95,9 @@
         "年号": "1902年～1983年",
         "生年": "1902",
         "没年": "1983",
-        "画像": "images/池谷寅一.jpg"
+        "画像": "images/池谷寅一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-iketani.html",
+        "URL_2": ""
     },
     {
         "番号": "11",
@@ -85,7 +105,9 @@
         "年号": "1859年～1928年",
         "生年": "1859",
         "没年": "1928",
-        "画像": "images/石垣隈太郎.jpg"
+        "画像": "images/石垣隈太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishigaki.html",
+        "URL_2": ""
     },
     {
         "番号": "12",
@@ -93,7 +115,9 @@
         "年号": "1886年～1913年",
         "生年": "1886",
         "没年": "1913",
-        "画像": "images/石川節子.jpg"
+        "画像": "images/石川節子.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishikawa_se.html",
+        "URL_2": ""
     },
     {
         "番号": "13",
@@ -101,7 +125,9 @@
         "年号": "1886年～1912年",
         "生年": "1886",
         "没年": "1912",
-        "画像": "images/石川啄木.jpg"
+        "画像": "images/石川啄木.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishikawa_ta.html",
+        "URL_2": ""
     },
     {
         "番号": "14",
@@ -109,7 +135,9 @@
         "年号": "1847年～1917年",
         "生年": "1847",
         "没年": "1917",
-        "画像": "images/石川藤助.jpg"
+        "画像": "images/石川藤助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishikawa_to.html",
+        "URL_2": ""
     },
     {
         "番号": "15",
@@ -117,7 +145,9 @@
         "年号": "1872年～1950年",
         "生年": "1872",
         "没年": "1950",
-        "画像": "images/石館友作.jpg"
+        "画像": "images/石館友作.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishidate.html",
+        "URL_2": ""
     },
     {
         "番号": "16",
@@ -125,7 +155,9 @@
         "年号": "1855年～1918年",
         "生年": "1855",
         "没年": "1918",
-        "画像": "images/初代石塚弥太郎.jpg"
+        "画像": "images/初代石塚弥太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishizuka.html",
+        "URL_2": ""
     },
     {
         "番号": "17",
@@ -133,7 +165,9 @@
         "年号": "1883年～1966年",
         "生年": "1883",
         "没年": "1966",
-        "画像": "images/２代　石塚弥太郎.jpg"
+        "画像": "images/２代　石塚弥太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishizuka.html",
+        "URL_2": ""
     },
     {
         "番号": "18",
@@ -141,7 +175,9 @@
         "年号": "1937年～2005年",
         "生年": "1937",
         "没年": "2005",
-        "画像": "images/石原正.jpg"
+        "画像": "images/石原正.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ishihara.html",
+        "URL_2": ""
     },
     {
         "番号": "19",
@@ -149,7 +185,9 @@
         "年号": "1882年～1934年",
         "生年": "1882",
         "没年": "1934",
-        "画像": "images/泉泰三.jpg"
+        "画像": "images/泉泰三.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-izumi.html",
+        "URL_2": ""
     },
     {
         "番号": "20",
@@ -157,7 +195,9 @@
         "年号": "1829年～1895年",
         "生年": "1829",
         "没年": "1895",
-        "画像": "images/泉藤兵衛.jpg"
+        "画像": "images/泉藤兵衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-izumitou.html",
+        "URL_2": ""
     },
     {
         "番号": "21",
@@ -165,7 +205,9 @@
         "年号": "1845年～1911年",
         "生年": "1845",
         "没年": "1911",
-        "画像": "images/井田侾吉.jpg"
+        "画像": "images/井田侾吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ida.html",
+        "URL_2": ""
     },
     {
         "番号": "22",
@@ -173,7 +215,9 @@
         "年号": "1906年～1988年",
         "生年": "1906",
         "没年": "1988",
-        "画像": "images/初代市川団四郎.jpg"
+        "画像": "images/初代市川団四郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ichikawa.html",
+        "URL_2": ""
     },
     {
         "番号": "23",
@@ -181,7 +225,9 @@
         "年号": "1831年～1907年",
         "生年": "1831",
         "没年": "1907",
-        "画像": "images/伊藤鋳之助.jpg"
+        "画像": "images/伊藤鋳之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-itou.html",
+        "URL_2": ""
     },
     {
         "番号": "24",
@@ -189,7 +235,9 @@
         "年号": "1911年～1996年",
         "生年": "1911",
         "没年": "1996",
-        "画像": "images/伊藤貫一.jpg"
+        "画像": "images/伊藤貫一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-itoutsu.html",
+        "URL_2": ""
     },
     {
         "番号": "25",
@@ -197,7 +245,9 @@
         "年号": "1913年～1986年",
         "生年": "1913",
         "没年": "1986",
-        "画像": "images/井上幸子.jpg"
+        "画像": "images/井上幸子.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-inouesa.html",
+        "URL_2": ""
     },
     {
         "番号": "26",
@@ -205,7 +255,9 @@
         "年号": "1926～1992",
         "生年": "1926",
         "没年": "1992",
-        "画像": "images/井上光晴.jpg"
+        "画像": "images/井上光晴.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-inouemi.html",
+        "URL_2": ""
     },
     {
         "番号": "27",
@@ -213,7 +265,9 @@
         "年号": "1921年～1998年",
         "生年": "1921",
         "没年": "1998",
-        "画像": "images/猪子利男.jpg"
+        "画像": "images/猪子利男.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-inokoto.html",
+        "URL_2": ""
     },
     {
         "番号": "28",
@@ -221,7 +275,9 @@
         "年号": "1836年～1887年",
         "生年": "1836",
         "没年": "1887",
-        "画像": "images/今井市右衛門.jpg"
+        "画像": "images/今井市右衛門.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-imai.html",
+        "URL_2": ""
     },
     {
         "番号": "29",
@@ -229,7 +285,9 @@
         "年号": "1849年～1925年",
         "生年": "1849",
         "没年": "1925",
-        "画像": "images/今井藤七.jpg"
+        "画像": "images/今井藤七.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-imaitou.html",
+        "URL_2": ""
     },
     {
         "番号": "30",
@@ -237,7 +295,9 @@
         "年号": "1908年～1989年",
         "生年": "1908",
         "没年": "1989",
-        "画像": "images/岩船修三.jpg"
+        "画像": "images/岩船修三.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-iwafune.html",
+        "URL_2": ""
     },
     {
         "番号": "31",
@@ -245,7 +305,9 @@
         "年号": "1818年～1892年",
         "生年": "1818",
         "没年": "1892",
-        "画像": "images/岩船ヤス.jpg"
+        "画像": "images/岩船ヤス.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-iwafune_ya.html",
+        "URL_2": ""
     },
     {
         "番号": "32",
@@ -253,7 +315,9 @@
         "年号": "1874年～1953年",
         "生年": "1874",
         "没年": "1953",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-iwafune_ya.html",
+        "URL_2": ""
     },
     {
         "番号": "33",
@@ -261,7 +325,9 @@
         "年号": "1840年～1920年",
         "生年": "1840",
         "没年": "1920",
-        "画像": "images/ジョン・バクスター・ウイル.jpg"
+        "画像": "images/ジョン・バクスター・ウイル.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-uiru.html",
+        "URL_2": ""
     },
     {
         "番号": "34",
@@ -269,7 +335,9 @@
         "年号": "1896年～1982年",
         "生年": "1896",
         "没年": "1982",
-        "画像": "images/植木蒼悦.jpg"
+        "画像": "images/植木蒼悦.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ueki.html",
+        "URL_2": ""
     },
     {
         "番号": "35",
@@ -277,7 +345,9 @@
         "年号": "1904年～1966年",
         "生年": "1904",
         "没年": "1966",
-        "画像": "images/上田仁.jpg"
+        "画像": "images/上田仁.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ueda.html",
+        "URL_2": ""
     },
     {
         "番号": "36",
@@ -285,7 +355,9 @@
         "年号": "1872年～1968年",
         "生年": "1872",
         "没年": "1968",
-        "画像": "images/ウォルター・アウグスタス・デ・ハヴィランド.jpg"
+        "画像": "images/ウォルター・アウグスタス・デ・ハヴィランド.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-walter.html",
+        "URL_2": ""
     },
     {
         "番号": "37",
@@ -293,7 +365,9 @@
         "年号": "1880年～1938年",
         "生年": "1880",
         "没年": "1938",
-        "画像": "images/内川源作.jpg"
+        "画像": "images/内川源作.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-uchikawa.html",
+        "URL_2": ""
     },
     {
         "番号": "38",
@@ -301,7 +375,9 @@
         "年号": "1858年～1942年",
         "生年": "1858",
         "没年": "1942",
-        "画像": "images/梅津福次郎.jpg"
+        "画像": "images/梅津福次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-umezu.html",
+        "URL_2": ""
     },
     {
         "番号": "39",
@@ -309,7 +385,9 @@
         "年号": "1836年～1908年",
         "生年": "1836",
         "没年": "1908",
-        "画像": "images/榎本武揚.jpg"
+        "画像": "images/榎本武揚.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-enomoto.html",
+        "URL_2": ""
     },
     {
         "番号": "40",
@@ -317,7 +395,9 @@
         "年号": "1842年～1912年",
         "生年": "1842",
         "没年": "1912",
-        "画像": "images/蛯子末次郎.jpg"
+        "画像": "images/蛯子末次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ebikosue.html",
+        "URL_2": ""
     },
     {
         "番号": "41",
@@ -325,7 +405,9 @@
         "年号": "1932年～1993年",
         "生年": "1932",
         "没年": "1993",
-        "画像": "images/蛯子善悦.jpg"
+        "画像": "images/蛯子善悦.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ebikozen.html",
+        "URL_2": ""
     },
     {
         "番号": "42",
@@ -333,7 +415,9 @@
         "年号": "1846～1921",
         "生年": "1846",
         "没年": "1921",
-        "画像": "images/Ｍ．Ｃ．ハリス.jpg"
+        "画像": "images/Ｍ．Ｃ．ハリス.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-emushi.html",
+        "URL_2": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-furora.html"
     },
     {
         "番号": "43",
@@ -341,7 +425,9 @@
         "年号": "1841年～1931年",
         "生年": "1841",
         "没年": "1931",
-        "画像": "images/遠藤吉平.jpg"
+        "画像": "images/遠藤吉平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-endo.html",
+        "URL_2": ""
     },
     {
         "番号": "44",
@@ -349,7 +435,9 @@
         "年号": "1916年～1990年",
         "生年": "1916",
         "没年": "1990",
-        "画像": "images/大高ひさを.jpg"
+        "画像": "images/大高ひさを.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ootaka.html",
+        "URL_2": ""
     },
     {
         "番号": "45",
@@ -357,7 +445,9 @@
         "年号": "1832年～1911年",
         "生年": "1832",
         "没年": "1911",
-        "画像": "images/大鳥圭介.jpg"
+        "画像": "images/大鳥圭介.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ootori.html",
+        "URL_2": ""
     },
     {
         "番号": "46",
@@ -365,7 +455,9 @@
         "年号": "1906年～2010年",
         "生年": "1906",
         "没年": "2010",
-        "画像": "images/大野一雄.jpg"
+        "画像": "images/大野一雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-oono.html",
+        "URL_2": ""
     },
     {
         "番号": "47",
@@ -373,7 +465,9 @@
         "年号": "1830年～1902年",
         "生年": "1830",
         "没年": "1902",
-        "画像": "images/大庭恭平.jpg"
+        "画像": "images/大庭恭平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ooba.html",
+        "URL_2": ""
     },
     {
         "番号": "48",
@@ -381,7 +475,9 @@
         "年号": "1912年～1987年",
         "生年": "1912",
         "没年": "1987",
-        "画像": "images/大桃ゑきえ.jpg"
+        "画像": "images/大桃ゑきえ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-oomomo.html",
+        "URL_2": ""
     },
     {
         "番号": "49",
@@ -389,7 +485,9 @@
         "年号": "1868年～1958年",
         "生年": "1868",
         "没年": "1958",
-        "画像": "images/大山マキ.jpg"
+        "画像": "images/大山マキ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ooyama.html",
+        "URL_2": ""
     },
     {
         "番号": "50",
@@ -397,7 +495,9 @@
         "年号": "1883年～1944年",
         "生年": "1883",
         "没年": "1944",
-        "画像": "images/岡田健蔵.jpg"
+        "画像": "images/岡田健蔵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-okadaken.html",
+        "URL_2": ""
     },
     {
         "番号": "51",
@@ -405,7 +505,9 @@
         "年号": "1859年～1947年",
         "生年": "1859",
         "没年": "1947",
-        "画像": "images/岡田普理衛.jpg"
+        "画像": "images/岡田普理衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-okadafu.html",
+        "URL_2": ""
     },
     {
         "番号": "52",
@@ -413,7 +515,9 @@
         "年号": "1886年～1948年",
         "生年": "1886",
         "没年": "1948",
-        "画像": "images/岡本一平.jpg"
+        "画像": "images/岡本一平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-okamotoi.html",
+        "URL_2": ""
     },
     {
         "番号": "53",
@@ -421,7 +525,9 @@
         "年号": "1874年～1954年",
         "生年": "1874",
         "没年": "1954",
-        "画像": "images/岡本康太郎.jpg"
+        "画像": "images/岡本康太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-okamotokou.html",
+        "URL_2": ""
     },
     {
         "番号": "54",
@@ -429,7 +535,9 @@
         "年号": "1846年～1914年",
         "生年": "1846",
         "没年": "1914",
-        "画像": "images/小川弥四郎.jpg"
+        "画像": "images/小川弥四郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ogawayashi.html",
+        "URL_2": ""
     },
     {
         "番号": "55",
@@ -437,7 +545,9 @@
         "年号": "1879年～1959年",
         "生年": "1879",
         "没年": "1959",
-        "画像": "images/荻野清六.jpg"
+        "画像": "images/荻野清六.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-oginosei.html",
+        "URL_2": ""
     },
     {
         "番号": "56",
@@ -445,7 +555,9 @@
         "年号": "1936年～2007年",
         "生年": "1936",
         "没年": "2007",
-        "画像": "images/奥平忠志.jpg"
+        "画像": "images/奥平忠志.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-okudaira.html",
+        "URL_2": ""
     },
     {
         "番号": "57",
@@ -453,7 +565,9 @@
         "年号": "1866年～1952年",
         "生年": "1866",
         "没年": "1952",
-        "画像": "images/小熊幸一郎.jpg"
+        "画像": "images/小熊幸一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-ogumakou.html",
+        "URL_2": ""
     },
     {
         "番号": "58",
@@ -461,7 +575,9 @@
         "年号": "1904年～1946年",
         "生年": "1904",
         "没年": "1946",
-        "画像": "images/小山内龍.jpg"
+        "画像": "images/小山内龍.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-osanai.html",
+        "URL_2": ""
     },
     {
         "番号": "59",
@@ -469,7 +585,9 @@
         "年号": "1901年～1996年",
         "生年": "1901",
         "没年": "1996",
-        "画像": "images/小田島安佐.jpg"
+        "画像": "images/小田島安佐.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-odajima.html",
+        "URL_2": ""
     },
     {
         "番号": "60",
@@ -477,7 +595,9 @@
         "年号": "1916年～2006年",
         "生年": "1916",
         "没年": "2006",
-        "画像": "images/小田豊四郎.jpg"
+        "画像": "images/小田豊四郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-odatoyo.html",
+        "URL_2": ""
     },
     {
         "番号": "61",
@@ -485,7 +605,9 @@
         "年号": "1918年～1978年",
         "生年": "1918",
         "没年": "1978",
-        "画像": "images/小野連司.jpg"
+        "画像": "images/小野連司.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-onorenji.html",
+        "URL_2": ""
     },
     {
         "番号": "62",
@@ -493,7 +615,9 @@
         "年号": "1877年～1963年",
         "生年": "1877",
         "没年": "1963",
-        "画像": "images/恩賀徳之助.jpg"
+        "画像": "images/恩賀徳之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-onga.html",
+        "URL_2": ""
     },
     {
         "番号": "63",
@@ -501,7 +625,9 @@
         "年号": "1915年～1998年",
         "生年": "1915",
         "没年": "1998",
-        "画像": "images/加賀栄治.jpg"
+        "画像": "images/加賀栄治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kagaeiji.html",
+        "URL_2": ""
     },
     {
         "番号": "64",
@@ -509,7 +635,9 @@
         "年号": "1933年～1999年",
         "生年": "1933",
         "没年": "1999",
-        "画像": "images/笠島芳朗.jpg"
+        "画像": "images/笠島芳朗.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kasajima.html",
+        "URL_2": ""
     },
     {
         "番号": "65",
@@ -517,7 +645,9 @@
         "年号": "1858～1926",
         "生年": "1858",
         "没年": "1926",
-        "画像": "images/片上楽天.jpg"
+        "画像": "images/片上楽天.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katakami.html",
+        "URL_2": ""
     },
     {
         "番号": "66",
@@ -525,7 +655,9 @@
         "年号": "1902年～1954年",
         "生年": "1902",
         "没年": "1954",
-        "画像": "images/片平庸人.jpg"
+        "画像": "images/片平庸人.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katahira.html",
+        "URL_2": ""
     },
     {
         "番号": "67",
@@ -533,7 +665,9 @@
         "年号": "1837年～1906年",
         "生年": "1837",
         "没年": "1906",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katsuta.html",
+        "URL_2": ""
     },
     {
         "番号": "68",
@@ -541,7 +675,9 @@
         "年号": "1876年～不明",
         "生年": "1876",
         "没年": "不明",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katsuta.html",
+        "URL_2": ""
     },
     {
         "番号": "69",
@@ -549,7 +685,9 @@
         "年号": "1883年～1939年",
         "生年": "1883",
         "没年": "1939",
-        "画像": "images/二代目　勝田弥吉.jpg"
+        "画像": "images/二代目　勝田弥吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katsuta.html",
+        "URL_2": ""
     },
     {
         "番号": "70",
@@ -557,7 +695,9 @@
         "年号": "1890年～1964年",
         "生年": "1890",
         "没年": "1964",
-        "画像": "images/葛木香一.jpg"
+        "画像": "images/葛木香一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katsuragi.html",
+        "URL_2": ""
     },
     {
         "番号": "71",
@@ -565,7 +705,9 @@
         "年号": "1890年～1954年",
         "生年": "1890",
         "没年": "1954",
-        "画像": "images/加藤兵次郎.jpg"
+        "画像": "images/加藤兵次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-katouhyo.html",
+        "URL_2": ""
     },
     {
         "番号": "72",
@@ -573,7 +715,9 @@
         "年号": "1906年～2001年",
         "生年": "1906",
         "没年": "2001",
-        "画像": "images/金子鴎亭.jpg"
+        "画像": "images/金子鴎亭.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kanekoou.html",
+        "URL_2": ""
     },
     {
         "番号": "73",
@@ -581,7 +725,9 @@
         "年号": "1884年～1942年",
         "生年": "1884",
         "没年": "1942",
-        "画像": "images/神永貞助.jpg"
+        "画像": "images/神永貞助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kaminaga.html",
+        "URL_2": ""
     },
     {
         "番号": "74",
@@ -589,7 +735,9 @@
         "年号": "1907年～1966年",
         "生年": "1907",
         "没年": "1966",
-        "画像": "images/亀井勝一郎.jpg"
+        "画像": "images/亀井勝一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kameikatu.html",
+        "URL_2": ""
     },
     {
         "番号": "75",
@@ -597,7 +745,9 @@
         "年号": "1937年～1984年",
         "生年": "1937",
         "没年": "1984",
-        "画像": "images/唐牛健太郎.jpg"
+        "画像": "images/唐牛健太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-karouji.html",
+        "URL_2": ""
     },
     {
         "番号": "76",
@@ -605,7 +755,9 @@
         "年号": "1889年～1975年",
         "生年": "1889",
         "没年": "1975",
-        "画像": "images/カロリョフ，アナトーリイ・ニコラエヴィチ.jpg"
+        "画像": "images/カロリョフ，アナトーリイ・ニコラエヴィチ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-karoryof.html",
+        "URL_2": ""
     },
     {
         "番号": "77",
@@ -613,7 +765,9 @@
         "年号": "1920年～2008年",
         "生年": "1920",
         "没年": "2008",
-        "画像": "images/川内康範.jpg"
+        "画像": "images/川内康範.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kawauchi.html",
+        "URL_2": ""
     },
     {
         "番号": "78",
@@ -621,7 +775,9 @@
         "年号": "1903年～2000年",
         "生年": "1903",
         "没年": "2000",
-        "画像": "images/川崎ヤエ.jpg"
+        "画像": "images/川崎ヤエ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kawasaki.html",
+        "URL_2": ""
     },
     {
         "番号": "79",
@@ -629,7 +785,9 @@
         "年号": "1856年～1951年",
         "生年": "1856",
         "没年": "1951",
-        "画像": "images/川田龍吉.jpg"
+        "画像": "images/川田龍吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kawada.html",
+        "URL_2": ""
     },
     {
         "番号": "80",
@@ -637,7 +795,9 @@
         "年号": "1909年～1998年",
         "生年": "1909",
         "没年": "1998",
-        "画像": "images/神田光彩.jpg"
+        "画像": "images/神田光彩.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kandakou.html",
+        "URL_2": ""
     },
     {
         "番号": "81",
@@ -645,7 +805,9 @@
         "年号": "1891年～1970年",
         "生年": "1891",
         "没年": "1970",
-        "画像": "images/北上聖牛.jpg"
+        "画像": "images/北上聖牛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kitagami.html",
+        "URL_2": ""
     },
     {
         "番号": "82",
@@ -653,7 +815,9 @@
         "年号": "1885年～1940年",
         "生年": "1885",
         "没年": "1940",
-        "画像": "images/木田保造.jpg"
+        "画像": "images/木田保造.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kidayasu.html",
+        "URL_2": ""
     },
     {
         "番号": "83",
@@ -661,7 +825,9 @@
         "年号": "1830年～1895年",
         "生年": "1830",
         "没年": "1895",
-        "画像": "images/木津幸吉.jpg"
+        "画像": "images/木津幸吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kizukou.html",
+        "URL_2": ""
     },
     {
         "番号": "84",
@@ -669,7 +835,9 @@
         "年号": "1916年～1975年",
         "生年": "1916",
         "没年": "1975",
-        "画像": "images/木戸新太郎.jpg"
+        "画像": "images/木戸新太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kidoshin.html",
+        "URL_2": ""
     },
     {
         "番号": "85",
@@ -677,7 +845,9 @@
         "年号": "1929年～2005年",
         "生年": "1929",
         "没年": "2005",
-        "画像": "images/木下順一.jpg"
+        "画像": "images/木下順一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kinoshita.html",
+        "URL_2": ""
     },
     {
         "番号": "86",
@@ -685,7 +855,9 @@
         "年号": "1905年～1991年",
         "生年": "1905",
         "没年": "1991",
-        "画像": "images/木村捷司.jpg"
+        "画像": "images/木村捷司.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kimurasho.html",
+        "URL_2": ""
     },
     {
         "番号": "87",
@@ -693,7 +865,9 @@
         "年号": "1882年～1953年",
         "生年": "1882",
         "没年": "1953",
-        "画像": "images/木村文助.jpg"
+        "画像": "images/木村文助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kimurabun.html",
+        "URL_2": ""
     },
     {
         "番号": "88",
@@ -701,7 +875,9 @@
         "年号": "1871年～1953年",
         "生年": "1871",
         "没年": "1953",
-        "画像": "images/日下部久太郎.jpg"
+        "画像": "images/日下部久太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kusakabe.html",
+        "URL_2": ""
     },
     {
         "番号": "89",
@@ -709,7 +885,9 @@
         "年号": "1897年～1939年",
         "生年": "1897",
         "没年": "1939",
-        "画像": "images/久慈次郎.jpg"
+        "画像": "images/久慈次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kujijiro.html",
+        "URL_2": ""
     },
     {
         "番号": "90",
@@ -717,7 +895,9 @@
         "年号": "1882年～1953年",
         "生年": "1882",
         "没年": "1953",
-        "画像": "images/工藤富次郎.jpg"
+        "画像": "images/工藤富次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kudouto.html",
+        "URL_2": ""
     },
     {
         "番号": "91",
@@ -725,7 +905,9 @@
         "年号": "1920年～1975年",
         "生年": "1920",
         "没年": "1975",
-        "画像": "images/邦かめすけ.jpg"
+        "画像": "images/邦かめすけ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kunikame.html",
+        "URL_2": ""
     },
     {
         "番号": "92",
@@ -733,7 +915,9 @@
         "年号": "1907年～1994年",
         "生年": "1907",
         "没年": "1994",
-        "画像": "images/国松登.jpg"
+        "画像": "images/国松登.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kunimatsu.html",
+        "URL_2": ""
     },
     {
         "番号": "93",
@@ -741,7 +925,9 @@
         "年号": "1893年～1955年",
         "生年": "1893",
         "没年": "1955",
-        "画像": "images/熊谷孝太郎.jpg"
+        "画像": "images/熊谷孝太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kumagai.html",
+        "URL_2": ""
     },
     {
         "番号": "94",
@@ -749,7 +935,9 @@
         "年号": "1822年～1897年",
         "生年": "1822",
         "没年": "1897",
-        "画像": "images/栗本鋤雲.jpg"
+        "画像": "images/栗本鋤雲.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kurimoto.html",
+        "URL_2": ""
     },
     {
         "番号": "95",
@@ -757,7 +945,9 @@
         "年号": "1911年～1999年",
         "生年": "1911",
         "没年": "1999",
-        "画像": "images/栗谷川健一.jpg"
+        "画像": "images/栗谷川健一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kuriyagawa.html",
+        "URL_2": ""
     },
     {
         "番号": "96",
@@ -765,7 +955,9 @@
         "年号": "1874年～1898年",
         "生年": "1874",
         "没年": "1898",
-        "画像": "images/小池毅.jpg"
+        "画像": "images/小池毅.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-koiketsu.html",
+        "URL_2": ""
     },
     {
         "番号": "97",
@@ -773,7 +965,9 @@
         "年号": "1901年～1997年",
         "生年": "1901",
         "没年": "1997",
-        "画像": "images/コウ・マリア・ヴァイドル・レイモン（勝田コウ）.jpg"
+        "画像": "images/コウ・マリア・ヴァイドル・レイモン（勝田コウ）.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-koumaria.html",
+        "URL_2": ""
     },
     {
         "番号": "98",
@@ -781,7 +975,9 @@
         "年号": "生没年不明",
         "生年": "生没",
         "没年": "不明",
-        "画像": "images/河野政通.jpg"
+        "画像": "images/河野政通.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kounoma.html",
+        "URL_2": ""
     },
     {
         "番号": "99",
@@ -789,7 +985,9 @@
         "年号": "1893年～1965年",
         "生年": "1893",
         "没年": "1965",
-        "画像": "images/神山茂.jpg"
+        "画像": "images/神山茂.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kouyama.html",
+        "URL_2": ""
     },
     {
         "番号": "100",
@@ -797,7 +995,9 @@
         "年号": "1819年～1893年",
         "生年": "1819",
         "没年": "1893",
-        "画像": "images/孤山堂無外.jpg"
+        "画像": "images/孤山堂無外.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kosandou.html",
+        "URL_2": ""
     },
     {
         "番号": "101",
@@ -805,7 +1005,9 @@
         "年号": "1865年～1927年",
         "生年": "1865",
         "没年": "1927",
-        "画像": "images/小島千代松.jpg"
+        "画像": "images/小島千代松.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kojima.html",
+        "URL_2": ""
     },
     {
         "番号": "102",
@@ -813,7 +1015,9 @@
         "年号": "1895年～1970年",
         "生年": "1895",
         "没年": "1970",
-        "画像": "images/児玉作左衛門.jpg"
+        "画像": "images/児玉作左衛門.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kodamasa.html",
+        "URL_2": ""
     },
     {
         "番号": "103",
@@ -821,7 +1025,9 @@
         "年号": "1865年～1932年",
         "生年": "1865",
         "没年": "1932",
-        "画像": "images/小橋榮太郎.jpg"
+        "画像": "images/小橋榮太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kobashi.html",
+        "URL_2": ""
     },
     {
         "番号": "104",
@@ -829,7 +1035,9 @@
         "年号": "1825年～1903年",
         "生年": "1825",
         "没年": "1903",
-        "画像": "images/小林重吉.jpg"
+        "画像": "images/小林重吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kobayashi.html",
+        "URL_2": ""
     },
     {
         "番号": "105",
@@ -837,7 +1045,9 @@
         "年号": "1897年～1976年",
         "生年": "1897",
         "没年": "1976",
-        "画像": "images/小南武一.jpg"
+        "画像": "images/小南武一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kominami.html",
+        "URL_2": ""
     },
     {
         "番号": "106",
@@ -845,7 +1055,9 @@
         "年号": "1776年～1831年",
         "生年": "1776",
         "没年": "1831",
-        "画像": "images/ゴロヴニン.jpg"
+        "画像": "images/ゴロヴニン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-golovnin.html",
+        "URL_2": ""
     },
     {
         "番号": "107",
@@ -853,7 +1065,9 @@
         "年号": "1898年～1977年",
         "生年": "1898",
         "没年": "1977",
-        "画像": "images/今東光.jpg"
+        "画像": "images/今東光.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-kontouko.html",
+        "URL_2": ""
     },
     {
         "番号": "108",
@@ -861,7 +1075,9 @@
         "年号": "1827年～1899年",
         "生年": "1827",
         "没年": "1899",
-        "画像": "images/初代紺野治重.jpg"
+        "画像": "images/初代紺野治重.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-konnoharu.html",
+        "URL_2": ""
     },
     {
         "番号": "109",
@@ -869,7 +1085,9 @@
         "年号": "1865年～1924年",
         "生年": "1865",
         "没年": "1924",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-konnoharu.html",
+        "URL_2": ""
     },
     {
         "番号": "110",
@@ -877,7 +1095,9 @@
         "年号": "1892年～1985年",
         "生年": "1892",
         "没年": "1985",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-konnoharu.html",
+        "URL_2": ""
     },
     {
         "番号": "111",
@@ -885,7 +1105,9 @@
         "年号": "1903年～1984年",
         "生年": "1903",
         "没年": "1984",
-        "画像": "images/今日出海.jpg"
+        "画像": "images/今日出海.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/02_ka/02-konhidemi.html",
+        "URL_2": ""
     },
     {
         "番号": "112",
@@ -893,7 +1115,9 @@
         "年号": "1914年～1980年",
         "生年": "1914",
         "没年": "1980",
-        "画像": "images/齋藤玄.jpg"
+        "画像": "images/齋藤玄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-saitouge.html",
+        "URL_2": ""
     },
     {
         "番号": "113",
@@ -901,7 +1125,9 @@
         "年号": "1870年～1931年",
         "生年": "1870",
         "没年": "1931",
-        "画像": "images/斉藤大硯.jpg"
+        "画像": "images/斉藤大硯.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-saitouta.html",
+        "URL_2": ""
     },
     {
         "番号": "114",
@@ -909,7 +1135,9 @@
         "年号": "1873年～1961年",
         "生年": "1873",
         "没年": "1961",
-        "画像": "images/斉藤與一郎.jpg"
+        "画像": "images/斉藤與一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-saitouyo.html",
+        "URL_2": ""
     },
     {
         "番号": "115",
@@ -917,7 +1145,9 @@
         "年号": "1875年～1944年",
         "生年": "1875",
         "没年": "1944",
-        "画像": "images/坂本作平.jpg"
+        "画像": "images/坂本作平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sakamotosa.html",
+        "URL_2": ""
     },
     {
         "番号": "116",
@@ -925,7 +1155,9 @@
         "年号": "1887年～1947年",
         "生年": "1887",
         "没年": "1947",
-        "画像": "images/坂本森一.jpg"
+        "画像": "images/坂本森一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sakamotoshi.html",
+        "URL_2": ""
     },
     {
         "番号": "117",
@@ -933,7 +1165,9 @@
         "年号": "1895年～1957年",
         "生年": "1895",
         "没年": "1957",
-        "画像": "images/5代目酒谷小三郎.jpg"
+        "画像": "images/5代目酒谷小三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sakayako.html",
+        "URL_2": ""
     },
     {
         "番号": "118",
@@ -941,7 +1175,9 @@
         "年号": "1927年～1992年",
         "生年": "1927",
         "没年": "1992",
-        "画像": "images/佐々木逸郎.jpg"
+        "画像": "images/佐々木逸郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sasakiit.html",
+        "URL_2": ""
     },
     {
         "番号": "119",
@@ -949,7 +1185,9 @@
         "年号": "1873年～1935年",
         "生年": "1873",
         "没年": "1935",
-        "画像": "images/佐々木平次郎.jpg"
+        "画像": "images/佐々木平次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sasakihe.html",
+        "URL_2": ""
     },
     {
         "番号": "120",
@@ -957,7 +1195,9 @@
         "年号": "1886年～1945年",
         "生年": "1886",
         "没年": "1945",
-        "画像": "images/佐田作郎.jpg"
+        "画像": "images/佐田作郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sadasaku.html",
+        "URL_2": ""
     },
     {
         "番号": "121",
@@ -965,7 +1205,9 @@
         "年号": "1876年～1956年",
         "生年": "1876",
         "没年": "1956",
-        "画像": "images/佐藤在寛.jpg"
+        "画像": "images/佐藤在寛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-satouzai.html",
+        "URL_2": ""
     },
     {
         "番号": "122",
@@ -973,7 +1215,9 @@
         "年号": "1915年～1993年",
         "生年": "1915",
         "没年": "1993",
-        "画像": "images/佐藤哲郎.jpg"
+        "画像": "images/佐藤哲郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-satoute.html",
+        "URL_2": ""
     },
     {
         "番号": "123",
@@ -981,7 +1225,9 @@
         "年号": "1949年～1990年",
         "生年": "1949",
         "没年": "1990",
-        "画像": "images/佐藤泰志.jpg"
+        "画像": "images/佐藤泰志.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-satouyasu.html",
+        "URL_2": ""
     },
     {
         "番号": "124",
@@ -989,7 +1235,9 @@
         "年号": "1859年～1942年",
         "生年": "1859",
         "没年": "1942",
-        "画像": "images/佐藤祐知.jpg"
+        "画像": "images/佐藤祐知.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-satouyu.html",
+        "URL_2": ""
     },
     {
         "番号": "125",
@@ -997,7 +1245,9 @@
         "年号": "1897年～1966年",
         "生年": "1897",
         "没年": "1966",
-        "画像": "images/佐野忠吉.jpg"
+        "画像": "images/佐野忠吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sanochu.html",
+        "URL_2": ""
     },
     {
         "番号": "126",
@@ -1005,7 +1255,9 @@
         "年号": "1868年～1960年",
         "生年": "1868",
         "没年": "1960",
-        "画像": "images/サファイロフ，ウラジミール・ミハイロヴィチ.jpg"
+        "画像": "images/サファイロフ，ウラジミール・ミハイロヴィチ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-safairof.html",
+        "URL_2": ""
     },
     {
         "番号": "127",
@@ -1013,7 +1265,9 @@
         "年号": "1834年～1913年",
         "生年": "1834",
         "没年": "1913",
-        "画像": "images/澤邊琢磨.jpg"
+        "画像": "images/澤邊琢磨.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sawabeta.html",
+        "URL_2": ""
     },
     {
         "番号": "128",
@@ -1021,7 +1275,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/ジョセフ・ユリー・クロフォード.jpg"
+        "画像": "images/ジョセフ・ユリー・クロフォード.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "129",
@@ -1029,7 +1285,9 @@
         "年号": "1805年～1871年",
         "生年": "1805",
         "没年": "1871",
-        "画像": "images/塩田順庵.jpg"
+        "画像": "images/塩田順庵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shiodaju.html",
+        "URL_2": ""
     },
     {
         "番号": "130",
@@ -1037,7 +1295,9 @@
         "年号": "1843年～1889年",
         "生年": "1843",
         "没年": "1889",
-        "画像": "images/塩田三郎.jpg"
+        "画像": "images/塩田三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shiodaju.html",
+        "URL_2": ""
     },
     {
         "番号": "131",
@@ -1045,7 +1305,9 @@
         "年号": "1881年～1917年",
         "生年": "1881",
         "没年": "1917",
-        "画像": "images/篠崎清次.jpg"
+        "画像": "images/篠崎清次.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shinozaki.html",
+        "URL_2": ""
     },
     {
         "番号": "132",
@@ -1053,7 +1315,9 @@
         "年号": "1818年～1858年",
         "生年": "1818",
         "没年": "1858",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shibuta.html",
+        "URL_2": ""
     },
     {
         "番号": "133",
@@ -1061,7 +1325,9 @@
         "年号": "1845年～1882年",
         "生年": "1845",
         "没年": "1882",
-        "画像": "images/清水谷公考.jpg"
+        "画像": "images/清水谷公考.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shimizudani.html",
+        "URL_2": ""
     },
     {
         "番号": "134",
@@ -1069,7 +1335,9 @@
         "年号": "1854年～1944年",
         "生年": "1854",
         "没年": "1944",
-        "画像": "images/ジョン・バチラー.jpg"
+        "画像": "images/ジョン・バチラー.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-jonbach.html",
+        "URL_2": ""
     },
     {
         "番号": "135",
@@ -1077,7 +1345,9 @@
         "年号": "1890年～1962年",
         "生年": "1890",
         "没年": "1962",
-        "画像": "images/白土誠太郎.jpg"
+        "画像": "images/白土誠太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shirato.html",
+        "URL_2": ""
     },
     {
         "番号": "136",
@@ -1085,7 +1355,9 @@
         "年号": "1922年～1998年",
         "生年": "1922",
         "没年": "1998",
-        "画像": "images/神彰.jpg"
+        "画像": "images/神彰.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-jinakira.html",
+        "URL_2": ""
     },
     {
         "番号": "137",
@@ -1093,7 +1365,9 @@
         "年号": "1883年～1971年",
         "生年": "1883",
         "没年": "1971",
-        "画像": "images/眞藤愼太郎.jpg"
+        "画像": "images/眞藤愼太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shindou.html",
+        "URL_2": ""
     },
     {
         "番号": "138",
@@ -1101,7 +1375,9 @@
         "年号": "18??年～1904年",
         "生年": "18??",
         "没年": "1904",
-        "画像": "images/スール・マリ・オグスト.jpg"
+        "画像": "images/スール・マリ・オグスト.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shirayuri199407.html",
+        "URL_2": ""
     },
     {
         "番号": "139",
@@ -1109,7 +1385,9 @@
         "年号": "1845年～1938年",
         "生年": "1845",
         "没年": "1938",
-        "画像": "images/スール・マリ・オネジム.jpg"
+        "画像": "images/スール・マリ・オネジム.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shirayuri199407.html",
+        "URL_2": ""
     },
     {
         "番号": "140",
@@ -1117,7 +1395,9 @@
         "年号": "1851年～1945年",
         "生年": "1851",
         "没年": "1945",
-        "画像": "images/スール・カロリヌ.jpg"
+        "画像": "images/スール・カロリヌ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-shirayuri199407.html",
+        "URL_2": ""
     },
     {
         "番号": "141",
@@ -1125,7 +1405,9 @@
         "年号": "1842年～1925年",
         "生年": "1842",
         "没年": "1925",
-        "画像": "images/須川長之助.jpg"
+        "画像": "images/須川長之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugawacho.html",
+        "URL_2": ""
     },
     {
         "番号": "142",
@@ -1133,7 +1415,9 @@
         "年号": "1919年～2013年",
         "生年": "1919",
         "没年": "2013",
-        "画像": "images/菅原キミ子.jpg"
+        "画像": "images/菅原キミ子.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugawarakimiko.html",
+        "URL_2": ""
     },
     {
         "番号": "143",
@@ -1141,7 +1425,9 @@
         "年号": "1876年～1967年",
         "生年": "1876",
         "没年": "1967",
-        "画像": "images/菅原繁蔵.jpg"
+        "画像": "images/菅原繁蔵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugawara.html",
+        "URL_2": ""
     },
     {
         "番号": "144",
@@ -1149,7 +1435,9 @@
         "年号": "1843年～1923年",
         "生年": "1843",
         "没年": "1923",
-        "画像": "images/3代目杉浦嘉七.jpg"
+        "画像": "images/3代目杉浦嘉七.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugiuraka.html",
+        "URL_2": ""
     },
     {
         "番号": "145",
@@ -1157,7 +1445,9 @@
         "年号": "1826年～1900年",
         "生年": "1826",
         "没年": "1900",
-        "画像": "images/杉浦誠.jpg"
+        "画像": "images/杉浦誠.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugiurama.html",
+        "URL_2": ""
     },
     {
         "番号": "146",
@@ -1165,7 +1455,9 @@
         "年号": "1884年～1973年",
         "生年": "1884",
         "没年": "1973",
-        "画像": "images/杉崎郡作.jpg"
+        "画像": "images/杉崎郡作.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sugisaki.html",
+        "URL_2": ""
     },
     {
         "番号": "147",
@@ -1173,7 +1465,9 @@
         "年号": "1846年～1887年",
         "生年": "1846",
         "没年": "1887",
-        "画像": "images/杉野源次郎.jpg"
+        "画像": "images/杉野源次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suginogen.html",
+        "URL_2": ""
     },
     {
         "番号": "148",
@@ -1181,7 +1475,9 @@
         "年号": "1902年～1921年",
         "生年": "1902",
         "没年": "1921",
-        "画像": "images/砂山影二.jpg"
+        "画像": "images/砂山影二.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sunayama.html",
+        "URL_2": ""
     },
     {
         "番号": "149",
@@ -1189,7 +1485,9 @@
         "年号": "1835年～1920年",
         "生年": "1835",
         "没年": "1920",
-        "画像": "images/ライマン・スミス.jpg"
+        "画像": "images/ライマン・スミス.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sumisu.html",
+        "URL_2": ""
     },
     {
         "番号": "150",
@@ -1197,7 +1495,9 @@
         "年号": "1916年～2004年",
         "生年": "1916",
         "没年": "2004",
-        "画像": "images/瀬川伸.jpg"
+        "画像": "images/瀬川伸.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-segawa.html",
+        "URL_2": ""
     },
     {
         "番号": "151",
@@ -1205,7 +1505,9 @@
         "年号": "1925年～2013年",
         "生年": "1925",
         "没年": "2013",
-        "画像": "images/関輝夫.jpg"
+        "画像": "images/関輝夫.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sekiteruo.html",
+        "URL_2": ""
     },
     {
         "番号": "152",
@@ -1213,7 +1515,9 @@
         "年号": "1889年～1959年",
         "生年": "1889",
         "没年": "1959",
-        "画像": "images/関根要太郎.jpg"
+        "画像": "images/関根要太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sekine-yamanaka.html",
+        "URL_2": ""
     },
     {
         "番号": "153",
@@ -1221,7 +1525,9 @@
         "年号": "1833年～1921年",
         "生年": "1833",
         "没年": "1921",
-        "画像": "images/相馬哲平.jpg"
+        "画像": "images/相馬哲平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-souma.html",
+        "URL_2": ""
     },
     {
         "番号": "154",
@@ -1229,7 +1535,9 @@
         "年号": "1848年～1917年",
         "生年": "1848",
         "没年": "1917",
-        "画像": "images/園田実徳.jpg"
+        "画像": "images/園田実徳.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sonoda.html",
+        "URL_2": ""
     },
     {
         "番号": "155",
@@ -1237,7 +1545,9 @@
         "年号": "1816年～1874年",
         "生年": "1816",
         "没年": "1874",
-        "画像": "images/代島剛平.jpg"
+        "画像": "images/代島剛平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-daijima.html",
+        "URL_2": ""
     },
     {
         "番号": "156",
@@ -1245,7 +1555,9 @@
         "年号": "1873年～1944年",
         "生年": "1873",
         "没年": "1944",
-        "画像": "images/高井義喜久.jpg"
+        "画像": "images/高井義喜久.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takaiyo.html",
+        "URL_2": ""
     },
     {
         "番号": "157",
@@ -1253,7 +1565,9 @@
         "年号": "1897年～1947年",
         "生年": "1897",
         "没年": "1947",
-        "画像": "images/高勢実乗（本名能登谷新一）.jpg"
+        "画像": "images/高勢実乗（本名能登谷新一）.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takasemi.html",
+        "URL_2": ""
     },
     {
         "番号": "158",
@@ -1261,7 +1575,9 @@
         "年号": "1769年～1827年",
         "生年": "1769",
         "没年": "1827",
-        "画像": "images/高田屋嘉兵衛.jpg"
+        "画像": "images/高田屋嘉兵衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takadaya.html",
+        "URL_2": ""
     },
     {
         "番号": "159",
@@ -1269,7 +1585,9 @@
         "年号": "1901年～1970年",
         "生年": "1901",
         "没年": "1970",
-        "画像": "images/高橋掬太郎.jpg"
+        "画像": "images/高橋掬太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takahashi.html",
+        "URL_2": ""
     },
     {
         "番号": "160",
@@ -1277,7 +1595,9 @@
         "年号": "1836年～1916年",
         "生年": "1836",
         "没年": "1916",
-        "画像": "images/高松凌雲.jpg"
+        "画像": "images/高松凌雲.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takamatsu.html",
+        "URL_2": ""
     },
     {
         "番号": "161",
@@ -1285,7 +1605,9 @@
         "年号": "1872年～1963年",
         "生年": "1872",
         "没年": "1963",
-        "画像": "images/高村善太郎.jpg"
+        "画像": "images/高村善太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takamura.html",
+        "URL_2": ""
     },
     {
         "番号": "162",
@@ -1293,7 +1615,9 @@
         "年号": "1903年～1986年",
         "生年": "1903",
         "没年": "1986",
-        "画像": "images/田口フク.jpg"
+        "画像": "images/田口フク.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-taguchifu.html",
+        "URL_2": ""
     },
     {
         "番号": "163",
@@ -1301,7 +1625,9 @@
         "年号": "1807年～1867年",
         "生年": "1807",
         "没年": "1867",
-        "画像": "images/竹内下野守保徳.jpg"
+        "画像": "images/竹内下野守保徳.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takeuchishimo.html",
+        "URL_2": ""
     },
     {
         "番号": "164",
@@ -1309,7 +1635,9 @@
         "年号": "1905年～1982年",
         "生年": "1905",
         "没年": "1982",
-        "画像": "images/武内収太.jpg"
+        "画像": "images/武内収太.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takeuchisyu.html",
+        "URL_2": ""
     },
     {
         "番号": "165",
@@ -1317,7 +1645,9 @@
         "年号": "1909年～1991年",
         "生年": "1909",
         "没年": "1991",
-        "画像": "images/竹内正道.jpg"
+        "画像": "images/竹内正道.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takeuchima.html",
+        "URL_2": ""
     },
     {
         "番号": "166",
@@ -1325,7 +1655,9 @@
         "年号": "1827年～1880年",
         "生年": "1827",
         "没年": "1880",
-        "画像": "images/武田斐三郎.jpg"
+        "画像": "images/武田斐三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-takedaaya.html",
+        "URL_2": ""
     },
     {
         "番号": "167",
@@ -1333,7 +1665,9 @@
         "年号": "1884年～1936年",
         "生年": "1884",
         "没年": "1936",
-        "画像": "images/太刀川善吉.jpg"
+        "画像": "images/太刀川善吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tachikawa.html",
+        "URL_2": ""
     },
     {
         "番号": "168",
@@ -1341,7 +1675,9 @@
         "年号": "1899年～1976年",
         "生年": "1899",
         "没年": "1976",
-        "画像": "images/田中佐吉.jpg"
+        "画像": "images/田中佐吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanakasa.html",
+        "URL_2": ""
     },
     {
         "番号": "169",
@@ -1349,7 +1685,9 @@
         "年号": "1895年～1986年",
         "生年": "1895",
         "没年": "1986",
-        "画像": "images/田中誠一郎.jpg"
+        "画像": "images/田中誠一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanakase.html",
+        "URL_2": ""
     },
     {
         "番号": "170",
@@ -1357,7 +1695,9 @@
         "年号": "1867年～1957年",
         "生年": "1867",
         "没年": "1957",
-        "画像": "images/田中良吉.jpg"
+        "画像": "images/田中良吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanakaryo.html",
+        "URL_2": ""
     },
     {
         "番号": "171",
@@ -1365,7 +1705,9 @@
         "年号": "1897年～1971年",
         "生年": "1897",
         "没年": "1971",
-        "画像": "images/田辺三重松.jpg"
+        "画像": "images/田辺三重松.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanabemi.html",
+        "URL_2": ""
     },
     {
         "番号": "172",
@@ -1373,7 +1715,9 @@
         "年号": "1917～1964",
         "生年": "1917",
         "没年": "1964",
-        "画像": "images/谷杉　正.jpg"
+        "画像": "images/谷杉　正.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanisugita.html",
+        "URL_2": ""
     },
     {
         "番号": "173",
@@ -1381,7 +1725,9 @@
         "年号": "1942～2006",
         "生年": "1942",
         "没年": "2006",
-        "画像": "images/谷杉晃一.jpg"
+        "画像": "images/谷杉晃一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanisugita.html",
+        "URL_2": ""
     },
     {
         "番号": "174",
@@ -1389,7 +1735,9 @@
         "年号": "1875年～1936年",
         "生年": "1875",
         "没年": "1936",
-        "画像": "images/谷徳太郎.jpg"
+        "画像": "images/谷徳太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanisugita.html",
+        "URL_2": ""
     },
     {
         "番号": "175",
@@ -1397,7 +1745,9 @@
         "年号": "1831年～1912年",
         "生年": "1831",
         "没年": "1912",
-        "画像": "images/田本研造.jpg"
+        "画像": "images/田本研造.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tamotoke.html",
+        "URL_2": ""
     },
     {
         "番号": "176",
@@ -1405,7 +1755,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/千種基.jpg"
+        "画像": "images/千種基.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "177",
@@ -1413,7 +1765,9 @@
         "年号": "1845年～1918年",
         "生年": "1845",
         "没年": "1918",
-        "画像": "images/張尊三.jpg"
+        "画像": "images/張尊三.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-chouson.html",
+        "URL_2": ""
     },
     {
         "番号": "178",
@@ -1421,7 +1775,9 @@
         "年号": "1876年～1936年",
         "生年": "1876",
         "没年": "1936",
-        "画像": "images/土子毅.jpg"
+        "画像": "images/土子毅.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tsuchiko.html",
+        "URL_2": ""
     },
     {
         "番号": "179",
@@ -1429,7 +1785,9 @@
         "年号": "1798年～1880年",
         "生年": "1798",
         "没年": "1880",
-        "画像": "images/続豊治.jpg"
+        "画像": "images/続豊治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tsuzuki.html",
+        "URL_2": ""
     },
     {
         "番号": "180",
@@ -1437,7 +1795,9 @@
         "年号": "1880年～1931年",
         "生年": "1880",
         "没年": "1931",
-        "画像": "images/堤清六.jpg"
+        "画像": "images/堤清六.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tsutsumi.html",
+        "URL_2": ""
     },
     {
         "番号": "181",
@@ -1445,7 +1805,9 @@
         "年号": "1838年～1904年",
         "生年": "1838",
         "没年": "1904",
-        "画像": "images/常野正義.jpg"
+        "画像": "images/常野正義.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tsuneno.html",
+        "URL_2": ""
     },
     {
         "番号": "182",
@@ -1453,7 +1815,9 @@
         "年号": "1859年～1946年",
         "生年": "1859",
         "没年": "1946",
-        "画像": "images/オーガスタ・デカルソン.jpg"
+        "画像": "images/オーガスタ・デカルソン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-dekaruson.html",
+        "URL_2": ""
     },
     {
         "番号": "183",
@@ -1461,7 +1825,9 @@
         "年号": "1867年～1949年",
         "生年": "1867",
         "没年": "1949",
-        "画像": "images/寺井四郎兵衛.jpg"
+        "画像": "images/寺井四郎兵衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-teraishiro.html",
+        "URL_2": ""
     },
     {
         "番号": "184",
@@ -1469,7 +1835,9 @@
         "年号": "1842年～1905年",
         "生年": "1842",
         "没年": "1905",
-        "画像": "images/時任為基.jpg"
+        "画像": "images/時任為基.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tokitoutame.html",
+        "URL_2": ""
     },
     {
         "番号": "185",
@@ -1477,7 +1845,9 @@
         "年号": "1891年～1982年",
         "生年": "1891",
         "没年": "1982",
-        "画像": "images/登坂良作.jpg"
+        "画像": "images/登坂良作.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tosakaryo.html",
+        "URL_2": ""
     },
     {
         "番号": "186",
@@ -1485,7 +1855,9 @@
         "年号": "1911年～1979年",
         "生年": "1911",
         "没年": "1979",
-        "画像": "images/巴潟誠一.jpg"
+        "画像": "images/巴潟誠一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tomoegata.html",
+        "URL_2": ""
     },
     {
         "番号": "187",
@@ -1493,7 +1865,9 @@
         "年号": "1906年～1988年",
         "生年": "1906",
         "没年": "1988",
-        "画像": "images/外山定男.jpg"
+        "画像": "images/外山定男.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-toyamasa.html",
+        "URL_2": ""
     },
     {
         "番号": "188",
@@ -1501,7 +1875,9 @@
         "年号": "1893年～1983年",
         "生年": "1893",
         "没年": "1983",
-        "画像": "images/外山ハツ.jpg"
+        "画像": "images/外山ハツ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-toyamaha.html",
+        "URL_2": ""
     },
     {
         "番号": "189",
@@ -1509,7 +1885,9 @@
         "年号": "1861年～1912年",
         "生年": "1861",
         "没年": "1912",
-        "画像": "images/外山平治(初代).jpg"
+        "画像": "images/外山平治(初代).jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-toyamahe.html",
+        "URL_2": ""
     },
     {
         "番号": "190",
@@ -1517,7 +1895,9 @@
         "年号": "1884年～1938年",
         "生年": "1884",
         "没年": "1938",
-        "画像": "images/二代目・平治.jpg"
+        "画像": "images/二代目・平治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-toyamahe.html",
+        "URL_2": ""
     },
     {
         "番号": "191",
@@ -1525,7 +1905,9 @@
         "年号": "1921年～1988年",
         "生年": "1921",
         "没年": "1988",
-        "画像": "images/三代目・平治.jpg"
+        "画像": "images/三代目・平治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-toyamahe.html",
+        "URL_2": ""
     },
     {
         "番号": "192",
@@ -1533,7 +1915,9 @@
         "年号": "1817年～1897年",
         "生年": "1817",
         "没年": "1897",
-        "画像": "images/中川嘉兵衛.jpg"
+        "画像": "images/中川嘉兵衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakagawaka.html",
+        "URL_2": ""
     },
     {
         "番号": "193",
@@ -1541,7 +1925,9 @@
         "年号": "1768年～1848年",
         "生年": "1768",
         "没年": "1848",
-        "画像": "images/中川五郎治.jpg"
+        "画像": "images/中川五郎治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakagawago.html",
+        "URL_2": ""
     },
     {
         "番号": "194",
@@ -1549,7 +1935,9 @@
         "年号": "1905年～1985年",
         "生年": "1905",
         "没年": "1985",
-        "画像": "images/永沢富士雄.jpg"
+        "画像": "images/永沢富士雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nagasawafu.html",
+        "URL_2": ""
     },
     {
         "番号": "195",
@@ -1557,7 +1945,9 @@
         "年号": "1894年～1982年",
         "生年": "1894",
         "没年": "1982",
-        "画像": "images/中村勝馬.jpg"
+        "画像": "images/中村勝馬.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakamuraka.html",
+        "URL_2": ""
     },
     {
         "番号": "196",
@@ -1565,7 +1955,9 @@
         "年号": "1904年～1957年",
         "生年": "1904",
         "没年": "1957",
-        "画像": "images/中村進五郎.jpg"
+        "画像": "images/中村進五郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakamurashi.html",
+        "URL_2": ""
     },
     {
         "番号": "197",
@@ -1573,7 +1965,9 @@
         "年号": "1914年～1985年",
         "生年": "1914",
         "没年": "1985",
-        "画像": "images/中村誠二.jpg"
+        "画像": "images/中村誠二.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakamurase.html",
+        "URL_2": ""
     },
     {
         "番号": "198",
@@ -1581,7 +1975,9 @@
         "年号": "1890年～1933年",
         "生年": "1890",
         "没年": "1933",
-        "画像": "images/中村鎮.jpg"
+        "画像": "images/中村鎮.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nakamurama.html",
+        "URL_2": ""
     },
     {
         "番号": "199",
@@ -1589,7 +1985,9 @@
         "年号": "1826年～1876年",
         "生年": "1826",
         "没年": "1876",
-        "画像": "images/名村五八郎.jpg"
+        "画像": "images/名村五八郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-namurago.html",
+        "URL_2": ""
     },
     {
         "番号": "200",
@@ -1597,7 +1995,9 @@
         "年号": "1843年～1890年",
         "生年": "1843",
         "没年": "1890",
-        "画像": "images/新島襄.jpg"
+        "画像": "images/新島襄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-niijimajo.html",
+        "URL_2": ""
     },
     {
         "番号": "201",
@@ -1605,7 +2005,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/二木彦七.jpg"
+        "画像": "images/二木彦七.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "202",
@@ -1613,7 +2015,9 @@
         "年号": "1836年～1912年",
         "生年": "1836",
         "没年": "1912",
-        "画像": "images/ニコライ大主教.jpg"
+        "画像": "images/ニコライ大主教.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nikorai.html",
+        "URL_2": ""
     },
     {
         "番号": "203",
@@ -1621,7 +2025,9 @@
         "年号": "1864年～1938年",
         "生年": "1864",
         "没年": "1938",
-        "画像": "images/西出孫左衛門.jpg"
+        "画像": "images/西出孫左衛門.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nishidemago.html",
+        "URL_2": ""
     },
     {
         "番号": "204",
@@ -1629,7 +2035,9 @@
         "年号": "生没年不詳",
         "生年": "生没",
         "没年": "不詳",
-        "画像": "images/チャールズ・ネトルシップ.jpg"
+        "画像": "images/チャールズ・ネトルシップ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nettleship.html",
+        "URL_2": ""
     },
     {
         "番号": "205",
@@ -1637,7 +2045,9 @@
         "年号": "1871年～1919年",
         "生年": "1871",
         "没年": "1919",
-        "画像": "images/初代野路雷三郎.jpg"
+        "画像": "images/初代野路雷三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nojifamily.html",
+        "URL_2": ""
     },
     {
         "番号": "206",
@@ -1645,7 +2055,9 @@
         "年号": "1892年～1937年",
         "生年": "1892",
         "没年": "1937",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nojifamily.html",
+        "URL_2": ""
     },
     {
         "番号": "207",
@@ -1653,7 +2065,9 @@
         "年号": "1908年～1973年",
         "生年": "1908",
         "没年": "1973",
-        "画像": "images/三代目・松太郎.jpg"
+        "画像": "images/三代目・松太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nojifamily.html",
+        "URL_2": ""
     },
     {
         "番号": "208",
@@ -1661,7 +2075,9 @@
         "年号": "1898年～1997年",
         "生年": "1898",
         "没年": "1997",
-        "画像": "images/野路この.jpg"
+        "画像": "images/野路この.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nojifamily.html",
+        "URL_2": ""
     },
     {
         "番号": "209",
@@ -1669,7 +2085,9 @@
         "年号": "1893年～1968年",
         "生年": "1893",
         "没年": "1968",
-        "画像": "images/野田高梧.jpg"
+        "画像": "images/野田高梧.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nodakou.html",
+        "URL_2": ""
     },
     {
         "番号": "210",
@@ -1677,7 +2095,9 @@
         "年号": "1901年～1976年",
         "生年": "1901",
         "没年": "1976",
-        "画像": "images/野又貞夫.jpg"
+        "画像": "images/野又貞夫.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/05_na/05-nomatasa.html",
+        "URL_2": ""
     },
     {
         "番号": "211",
@@ -1685,7 +2105,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/Ｈ・Ｓ・パーマー.jpg"
+        "画像": "images/Ｈ・Ｓ・パーマー.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "212",
@@ -1693,7 +2115,9 @@
         "年号": "1848年～1907年",
         "生年": "1848",
         "没年": "1907",
-        "画像": "images/函館大経.jpg"
+        "画像": "images/函館大経.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hakodate.html",
+        "URL_2": ""
     },
     {
         "番号": "213",
@@ -1701,7 +2125,9 @@
         "年号": "1936年～1999年",
         "生年": "1936",
         "没年": "1999",
-        "画像": "images/箱根寿保.jpg"
+        "画像": "images/箱根寿保.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hakoneto.html",
+        "URL_2": ""
     },
     {
         "番号": "214",
@@ -1709,7 +2135,9 @@
         "年号": "1913年～1989年",
         "生年": "1913",
         "没年": "1989",
-        "画像": "images/橋本三郎.jpg"
+        "画像": "images/橋本三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hashimotosa.html",
+        "URL_2": ""
     },
     {
         "番号": "215",
@@ -1717,7 +2145,9 @@
         "年号": "1894年～不明",
         "生年": "1894",
         "没年": "不明",
-        "画像": "images/橋本隆造.jpg"
+        "画像": "images/橋本隆造.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hashimotoryu.html",
+        "URL_2": ""
     },
     {
         "番号": "216",
@@ -1725,7 +2155,9 @@
         "年号": "1900年～1935年",
         "生年": "1900",
         "没年": "1935",
-        "画像": "images/長谷川海太郎.jpg"
+        "画像": "images/長谷川海太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hasegawakai.html",
+        "URL_2": ""
     },
     {
         "番号": "217",
@@ -1733,7 +2165,9 @@
         "年号": "1906年～1973年",
         "生年": "1906",
         "没年": "1973",
-        "画像": "images/長谷川濬.jpg"
+        "画像": "images/長谷川濬.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hasegawashun.html",
+        "URL_2": ""
     },
     {
         "番号": "218",
@@ -1741,7 +2175,9 @@
         "年号": "1909年～1987年",
         "生年": "1909",
         "没年": "1987",
-        "画像": "images/長谷川四郎.jpg"
+        "画像": "images/長谷川四郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hasegawashiro.html",
+        "URL_2": ""
     },
     {
         "番号": "219",
@@ -1749,7 +2185,9 @@
         "年号": "1871年～1942年",
         "生年": "1871",
         "没年": "1942",
-        "画像": "images/長谷川淑夫（長谷川清）.jpg"
+        "画像": "images/長谷川淑夫（長谷川清）.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hasegawayoshi.html",
+        "URL_2": ""
     },
     {
         "番号": "220",
@@ -1757,7 +2195,9 @@
         "年号": "1904年～1988年",
         "生年": "1904",
         "没年": "1988",
-        "画像": "images/長谷川潾二郎.jpg"
+        "画像": "images/長谷川潾二郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hasegawarin.html",
+        "URL_2": ""
     },
     {
         "番号": "221",
@@ -1765,7 +2205,9 @@
         "年号": "1897年～1948年",
         "生年": "1897",
         "没年": "1948",
-        "画像": "images/花田長太郎.jpg"
+        "画像": "images/花田長太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hanadacho.html",
+        "URL_2": ""
     },
     {
         "番号": "222",
@@ -1773,7 +2215,9 @@
         "年号": "1893年～1980年",
         "生年": "1893",
         "没年": "1980",
-        "画像": "images/花光春之助.jpg"
+        "画像": "images/花光春之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hanamitsu.html",
+        "URL_2": ""
     },
     {
         "番号": "223",
@@ -1781,7 +2225,9 @@
         "年号": "1916年～1990年",
         "生年": "1916",
         "没年": "1990",
-        "画像": "images/羽野栄一.jpg"
+        "画像": "images/羽野栄一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hanoei.html",
+        "URL_2": ""
     },
     {
         "番号": "224",
@@ -1789,7 +2235,9 @@
         "年号": "1892年～1979年",
         "生年": "1892",
         "没年": "1979",
-        "画像": "images/馬場脩.jpg"
+        "画像": "images/馬場脩.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-babaosa.html",
+        "URL_2": ""
     },
     {
         "番号": "225",
@@ -1797,7 +2245,9 @@
         "年号": "1854年～1908年",
         "生年": "1854",
         "没年": "1908",
-        "画像": "images/馬場民則.jpg"
+        "画像": "images/馬場民則.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-babatami.html",
+        "URL_2": ""
     },
     {
         "番号": "226",
@@ -1805,7 +2255,9 @@
         "年号": "1883年～1936年",
         "生年": "1883",
         "没年": "1936",
-        "画像": "images/林儀作.jpg"
+        "画像": "images/林儀作.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hayashigi.html",
+        "URL_2": ""
     },
     {
         "番号": "227",
@@ -1813,7 +2265,9 @@
         "年号": "1900年～1973年",
         "生年": "1900",
         "没年": "1973",
-        "画像": "images/原忠雄.jpg"
+        "画像": "images/原忠雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hara.html",
+        "URL_2": ""
     },
     {
         "番号": "228",
@@ -1821,7 +2275,9 @@
         "年号": "1882年～1974年",
         "生年": "1882",
         "没年": "1974",
-        "画像": "images/疋田豊治.jpg"
+        "画像": "images/疋田豊治.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hikitato.html",
+        "URL_2": ""
     },
     {
         "番号": "229",
@@ -1829,7 +2285,9 @@
         "年号": "1902年～1957年",
         "生年": "1902",
         "没年": "1957",
-        "画像": "images/久生十蘭.jpg"
+        "画像": "images/久生十蘭.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hisaoju.html",
+        "URL_2": ""
     },
     {
         "番号": "230",
@@ -1837,7 +2295,9 @@
         "年号": "1835年～1869年",
         "生年": "1835",
         "没年": "1869",
-        "画像": "images/土方歳三.jpg"
+        "画像": "images/土方歳三.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hijikata.html",
+        "URL_2": ""
     },
     {
         "番号": "231",
@@ -1845,7 +2305,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/平井晴二郎.jpg"
+        "画像": "images/平井晴二郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "232",
@@ -1853,7 +2315,9 @@
         "年号": "1822年～1876年",
         "生年": "1822",
         "没年": "1876",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hirasawa.html",
+        "URL_2": ""
     },
     {
         "番号": "233",
@@ -1861,7 +2325,9 @@
         "年号": "1849年～1901年",
         "生年": "1849",
         "没年": "1901",
-        "画像": "images/平田文右衛門.jpg"
+        "画像": "images/平田文右衛門.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hiratabu.html",
+        "URL_2": ""
     },
     {
         "番号": "234",
@@ -1869,7 +2335,9 @@
         "年号": "1881年～1973年",
         "生年": "1881",
         "没年": "1973",
-        "画像": "images/平塚常次郎.jpg"
+        "画像": "images/平塚常次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hiratsukatu.html",
+        "URL_2": ""
     },
     {
         "番号": "235",
@@ -1877,7 +2345,9 @@
         "年号": "1836年～1922年",
         "生年": "1836",
         "没年": "1922",
-        "画像": "images/平塚時蔵.jpg"
+        "画像": "images/平塚時蔵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hiratsukato.html",
+        "URL_2": ""
     },
     {
         "番号": "236",
@@ -1885,7 +2355,9 @@
         "年号": "1841年～1907年",
         "生年": "1841",
         "没年": "1907",
-        "画像": "images/初代平出喜三郎.jpg"
+        "画像": "images/初代平出喜三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hirade.html",
+        "URL_2": ""
     },
     {
         "番号": "237",
@@ -1893,15 +2365,19 @@
         "年号": "1876年～1931年",
         "生年": "1876",
         "没年": "1931",
-        "画像": "images/二代平出喜三郎.jpg"
+        "画像": "images/二代平出喜三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hirade2.html",
+        "URL_2": ""
     },
     {
         "番号": "238",
         "名前": "フリサンフ・プラトーノヴィチ・ビリチ",
         "年号": "1859年（？）～1923年",
-        "生年": "1859",
-        "没年": "1923",
-        "画像": "images/フリサンフ・プラトーノヴィチ・ビリチ.jpg"
+        "生年": "#REF!",
+        "没年": "",
+        "画像": "images/フリサンフ・プラトーノヴィチ・ビリチ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-birichi.html",
+        "URL_2": ""
     },
     {
         "番号": "239",
@@ -1909,7 +2385,9 @@
         "年号": "1862年～1928年",
         "生年": "1862",
         "没年": "1928",
-        "画像": "images/廣井勇.jpg"
+        "画像": "images/廣井勇.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hiroi.html",
+        "URL_2": ""
     },
     {
         "番号": "240",
@@ -1917,7 +2395,9 @@
         "年号": "1930年～2008年",
         "生年": "1930",
         "没年": "2008",
-        "画像": "images/廣瀬量平.jpg"
+        "画像": "images/廣瀬量平.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hirose.html",
+        "URL_2": ""
     },
     {
         "番号": "241",
@@ -1925,7 +2405,9 @@
         "年号": "1927～2012",
         "生年": "1927",
         "没年": "2012",
-        "画像": "images/フィリップ・ユーベア・マリ一・グロード.jpg"
+        "画像": "images/フィリップ・ユーベア・マリ一・グロード.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-philippe.html",
+        "URL_2": ""
     },
     {
         "番号": "242",
@@ -1933,7 +2415,9 @@
         "年号": "1948年～1978年",
         "生年": "1948",
         "没年": "1978",
-        "画像": "images/深井克美.jpg"
+        "画像": "images/深井克美.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fukaika.html",
+        "URL_2": ""
     },
     {
         "番号": "243",
@@ -1941,7 +2425,9 @@
         "年号": "1847年～1913年",
         "生年": "1847",
         "没年": "1913",
-        "画像": "images/深瀬鴻堂.jpg"
+        "画像": "images/深瀬鴻堂.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fukaseko.html",
+        "URL_2": ""
     },
     {
         "番号": "244",
@@ -1949,7 +2435,9 @@
         "年号": "1834年～1905年",
         "生年": "1834",
         "没年": "1905",
-        "画像": "images/深瀬洋春.jpg"
+        "画像": "images/深瀬洋春.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fukaseyo.html",
+        "URL_2": ""
     },
     {
         "番号": "245",
@@ -1957,7 +2445,9 @@
         "年号": "1838年～1922年",
         "生年": "1838",
         "没年": "1922",
-        "画像": "images/福士成豊.jpg"
+        "画像": "images/福士成豊.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fukushina.html",
+        "URL_2": ""
     },
     {
         "番号": "246",
@@ -1965,7 +2455,9 @@
         "年号": "1898年～1976年",
         "生年": "1898",
         "没年": "1976",
-        "画像": "images/冨士月子.jpg"
+        "画像": "images/冨士月子.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fujitsuki.html",
+        "URL_2": ""
     },
     {
         "番号": "247",
@@ -1973,7 +2465,9 @@
         "年号": "1888年～1956年",
         "生年": "1888",
         "没年": "1956",
-        "画像": "images/藤間扇吉.jpg"
+        "画像": "images/藤間扇吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fujimase.html",
+        "URL_2": ""
     },
     {
         "番号": "248",
@@ -1981,7 +2475,9 @@
         "年号": "1883年～1949年",
         "生年": "1883",
         "没年": "1949",
-        "画像": "images/伏見勇蔵.jpg"
+        "画像": "images/伏見勇蔵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-fushimiyu.html",
+        "URL_2": ""
     },
     {
         "番号": "249",
@@ -1989,7 +2485,9 @@
         "年号": "1832年～1891年",
         "生年": "1832",
         "没年": "1891",
-        "画像": "images/トーマス・ライト・ブラキストン.jpg"
+        "画像": "images/トーマス・ライト・ブラキストン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-burakisuton.html",
+        "URL_2": ""
     },
     {
         "番号": "250",
@@ -1997,7 +2495,9 @@
         "年号": "1838年～1911年",
         "生年": "1838",
         "没年": "1911",
-        "画像": "images/ジュール・ブリュネ.jpg"
+        "画像": "images/ジュール・ブリュネ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-buryune.html",
+        "URL_2": ""
     },
     {
         "番号": "251",
@@ -2005,7 +2505,9 @@
         "年号": "1868年～1897年",
         "生年": "1868",
         "没年": "1897",
-        "画像": "images/逸見小右衛門.jpg"
+        "画像": "images/逸見小右衛門.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hemmikoe.html",
+        "URL_2": ""
     },
     {
         "番号": "252",
@@ -2013,7 +2515,9 @@
         "年号": "1824年～1878年",
         "生年": "1824",
         "没年": "1878",
-        "画像": "images/堀川乗経.jpg"
+        "画像": "images/堀川乗経.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-horikawajo.html",
+        "URL_2": ""
     },
     {
         "番号": "253",
@@ -2021,7 +2525,9 @@
         "年号": "1860年～1925年",
         "生年": "1860",
         "没年": "1925",
-        "画像": "images/堀川トネ.jpg"
+        "画像": "images/堀川トネ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-horikawatone.html",
+        "URL_2": ""
     },
     {
         "番号": "254",
@@ -2029,7 +2535,9 @@
         "年号": "1823年～1894年",
         "生年": "1823",
         "没年": "1894",
-        "画像": "images/堀達之助.jpg"
+        "画像": "images/堀達之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-horitatsu.html",
+        "URL_2": ""
     },
     {
         "番号": "255",
@@ -2037,7 +2545,9 @@
         "年号": "1907年～1995年",
         "生年": "1907",
         "没年": "1995",
-        "画像": "images/本田延三郎.jpg"
+        "画像": "images/本田延三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-hondano.html",
+        "URL_2": ""
     },
     {
         "番号": "256",
@@ -2045,7 +2555,9 @@
         "年号": "1835年～1919年",
         "生年": "1835",
         "没年": "1919",
-        "画像": "images/前島密.jpg"
+        "画像": "images/前島密.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-maejimahi.html",
+        "URL_2": ""
     },
     {
         "番号": "257",
@@ -2053,7 +2565,9 @@
         "年号": "1904年～1974年",
         "生年": "1904",
         "没年": "1974",
-        "画像": "images/前田政雄.jpg"
+        "画像": "images/前田政雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-maedama.html",
+        "URL_2": ""
     },
     {
         "番号": "258",
@@ -2061,7 +2575,9 @@
         "年号": "1827年～1891年",
         "生年": "1827",
         "没年": "1891",
-        "画像": "images/マキシモーヴィチ，カール・ヨハン.jpg"
+        "画像": "images/マキシモーヴィチ，カール・ヨハン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-makishimo.html",
+        "URL_2": ""
     },
     {
         "番号": "259",
@@ -2069,7 +2585,9 @@
         "年号": "1909年～1993年",
         "生年": "1909",
         "没年": "1993",
-        "画像": "images/益田喜頓.jpg"
+        "画像": "images/益田喜頓.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-masudakiton.html",
+        "URL_2": ""
     },
     {
         "番号": "260",
@@ -2077,7 +2595,9 @@
         "年号": "1904年～1959年",
         "生年": "1904",
         "没年": "1959",
-        "画像": "images/間世潜.jpg"
+        "画像": "images/間世潜.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-masehiso.html",
+        "URL_2": ""
     },
     {
         "番号": "261",
@@ -2085,7 +2605,9 @@
         "年号": "1909年～1982年",
         "生年": "1909",
         "没年": "1982",
-        "画像": "images/松川次郎.jpg"
+        "画像": "images/松川次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsukawaji.html",
+        "URL_2": ""
     },
     {
         "番号": "262",
@@ -2093,7 +2615,9 @@
         "年号": "1802年～1876年",
         "生年": "1802",
         "没年": "1876",
-        "画像": "images/松川弁之助.jpg"
+        "画像": "images/松川弁之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsukawabe.html",
+        "URL_2": ""
     },
     {
         "番号": "263",
@@ -2101,7 +2625,9 @@
         "年号": "1808年～1886年",
         "生年": "1808",
         "没年": "1886",
-        "画像": "images/松代伊兵衛.jpg"
+        "画像": "images/松代伊兵衛.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsushiroihe.html",
+        "URL_2": ""
     },
     {
         "番号": "264",
@@ -2109,7 +2635,9 @@
         "年号": "1878～1934",
         "生年": "1878",
         "没年": "1934",
-        "画像": "images/松代林太郎.jpg"
+        "画像": "images/松代林太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsushirorin.html",
+        "URL_2": ""
     },
     {
         "番号": "265",
@@ -2117,7 +2645,9 @@
         "年号": "1839～1909",
         "生年": "1839",
         "没年": "1909",
-        "画像": "images/松平太郎.jpg"
+        "画像": "images/松平太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsutaro.html",
+        "URL_2": ""
     },
     {
         "番号": "266",
@@ -2125,7 +2655,9 @@
         "年号": "1891年～1976年",
         "生年": "1891",
         "没年": "1976",
-        "画像": "images/松本恵子.jpg"
+        "画像": "images/松本恵子.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matsumotoke.html",
+        "URL_2": ""
     },
     {
         "番号": "267",
@@ -2133,7 +2665,9 @@
         "年号": "年号が見つかりません",
         "生年": "号が見つかりません",
         "没年": "",
-        "画像": "images/松本荘一郎.jpg"
+        "画像": "images/松本荘一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-suidou199809.html",
+        "URL_2": ""
     },
     {
         "番号": "268",
@@ -2141,7 +2675,9 @@
         "年号": "1865年～1941年",
         "生年": "1865",
         "没年": "1941",
-        "画像": "images/ニコライ・ペトローヴィチ・マトヴェーエフ.jpg"
+        "画像": "images/ニコライ・ペトローヴィチ・マトヴェーエフ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-matveyev.html",
+        "URL_2": ""
     },
     {
         "番号": "269",
@@ -2149,7 +2685,9 @@
         "年号": "1904年～2001年",
         "生年": "1904",
         "没年": "2001",
-        "画像": "images/水谷準.jpg"
+        "画像": "images/水谷準.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mizutani.html",
+        "URL_2": ""
     },
     {
         "番号": "270",
@@ -2157,7 +2695,9 @@
         "年号": "1874年～1931年",
         "生年": "1874",
         "没年": "1931",
-        "画像": "images/三谷元次郎.jpg"
+        "画像": "images/三谷元次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mitanimo.html",
+        "URL_2": ""
     },
     {
         "番号": "271",
@@ -2165,7 +2705,9 @@
         "年号": "1901年～1961年",
         "生年": "1901",
         "没年": "1961",
-        "画像": "images/光岡龍三郎.jpg"
+        "画像": "images/光岡龍三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mitsuoka.html",
+        "URL_2": ""
     },
     {
         "番号": "272",
@@ -2173,7 +2715,9 @@
         "年号": "1831年～1904年",
         "生年": "1831",
         "没年": "1904",
-        "画像": "images/皆月善六.jpg"
+        "画像": "images/皆月善六.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-minatsuki.html",
+        "URL_2": ""
     },
     {
         "番号": "273",
@@ -2181,7 +2725,9 @@
         "年号": "1930～1996",
         "生年": "1930",
         "没年": "1996",
-        "画像": "images/三橋美智也.jpg"
+        "画像": "images/三橋美智也.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mihashimi.html",
+        "URL_2": ""
     },
     {
         "番号": "274",
@@ -2189,7 +2735,9 @@
         "年号": "1910年～1990年",
         "生年": "1910",
         "没年": "1990",
-        "画像": "images/三原栄吉.jpg"
+        "画像": "images/三原栄吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-miharaei.html",
+        "URL_2": ""
     },
     {
         "番号": "275",
@@ -2197,7 +2745,9 @@
         "年号": "1885年～1962年",
         "生年": "1885",
         "没年": "1962",
-        "画像": "images/宮崎大四郎.jpg"
+        "画像": "images/宮崎大四郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-miyazaki.html",
+        "URL_2": ""
     },
     {
         "番号": "276",
@@ -2205,7 +2755,9 @@
         "年号": "1868年～1955年",
         "生年": "1868",
         "没年": "1955",
-        "画像": "images/宮本武之助.jpg"
+        "画像": "images/宮本武之助.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-miyamoto.html",
+        "URL_2": ""
     },
     {
         "番号": "277",
@@ -2213,7 +2765,9 @@
         "年号": "1907年～1960年",
         "生年": "1907",
         "没年": "1960",
-        "画像": "images/unknown.jpg"
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-miyoshi.html",
+        "URL_2": ""
     },
     {
         "番号": "278",
@@ -2221,7 +2775,9 @@
         "年号": "1850年～1913年",
         "生年": "1850",
         "没年": "1913",
-        "画像": "images/ジョン・ミルン.jpg"
+        "画像": "images/ジョン・ミルン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mirun.html",
+        "URL_2": ""
     },
     {
         "番号": "279",
@@ -2229,7 +2785,9 @@
         "年号": "1906年～1986年",
         "生年": "1906",
         "没年": "1986",
-        "画像": "images/村井末吉.jpg"
+        "画像": "images/村井末吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-muraisue.html",
+        "URL_2": ""
     },
     {
         "番号": "280",
@@ -2237,7 +2795,9 @@
         "年号": "1854～1908",
         "生年": "1854",
         "没年": "1908",
-        "画像": "images/村尾元長.jpg"
+        "画像": "images/村尾元長.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-muraomo.html",
+        "URL_2": ""
     },
     {
         "番号": "281",
@@ -2245,7 +2805,9 @@
         "年号": "1813年～1880年",
         "生年": "1813",
         "没年": "1880",
-        "画像": "images/村垣淡路守範正.jpg"
+        "画像": "images/村垣淡路守範正.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-muragaki.html",
+        "URL_2": ""
     },
     {
         "番号": "282",
@@ -2253,7 +2815,9 @@
         "年号": "1848年～1924年",
         "生年": "1848",
         "没年": "1924",
-        "画像": "images/村木甚三郎.jpg"
+        "画像": "images/村木甚三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-murakiji.html",
+        "URL_2": ""
     },
     {
         "番号": "283",
@@ -2261,7 +2825,9 @@
         "年号": "1834年～1890年",
         "生年": "1834",
         "没年": "1890",
-        "画像": "images/村田駒吉.jpg"
+        "画像": "images/村田駒吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-muratako.html",
+        "URL_2": ""
     },
     {
         "番号": "284",
@@ -2269,7 +2835,9 @@
         "年号": "1891年～1968年",
         "生年": "1891",
         "没年": "1968",
-        "画像": "images/村田専三郎.jpg"
+        "画像": "images/村田専三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-muratase.html",
+        "URL_2": ""
     },
     {
         "番号": "285",
@@ -2277,7 +2845,9 @@
         "年号": "1828～1870年",
         "生年": "1828",
         "没年": "1870",
-        "画像": "images/メルメ・ド・カション.jpg"
+        "画像": "images/メルメ・ド・カション.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-merume.html",
+        "URL_2": ""
     },
     {
         "番号": "286",
@@ -2285,7 +2855,9 @@
         "年号": "1838年～1925年",
         "生年": "1838",
         "没年": "1925",
-        "画像": "images/エドワード・シルベスター・モース.jpg"
+        "画像": "images/エドワード・シルベスター・モース.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-mosu.html",
+        "URL_2": ""
     },
     {
         "番号": "287",
@@ -2293,7 +2865,9 @@
         "年号": "1892年～1973年",
         "生年": "1892",
         "没年": "1973",
-        "画像": "images/元木省吾.jpg"
+        "画像": "images/元木省吾.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/07_ma/07-motokisho.html",
+        "URL_2": ""
     },
     {
         "番号": "288",
@@ -2301,7 +2875,9 @@
         "年号": "1906年～1965年",
         "生年": "1906",
         "没年": "1965",
-        "画像": "images/八木隆一郎.jpg"
+        "画像": "images/八木隆一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yagiryuu.html",
+        "URL_2": ""
     },
     {
         "番号": "289",
@@ -2309,7 +2885,9 @@
         "年号": "1840年～1887年",
         "生年": "1840",
         "没年": "1887",
-        "画像": "images/ヤコフ・ドミートリエヴィチ・チハイ.jpg"
+        "画像": "images/ヤコフ・ドミートリエヴィチ・チハイ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-jakov.html",
+        "URL_2": ""
     },
     {
         "番号": "290",
@@ -2317,7 +2895,9 @@
         "年号": "1906年～1968年",
         "生年": "1906",
         "没年": "1968",
-        "画像": "images/ヤコボ酒井武雄.jpg"
+        "画像": "images/ヤコボ酒井武雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yakobosa.html",
+        "URL_2": ""
     },
     {
         "番号": "291",
@@ -2325,7 +2905,9 @@
         "年号": "1902年～1986年",
         "生年": "1902",
         "没年": "1986",
-        "画像": "images/梁川剛一.jpg"
+        "画像": "images/梁川剛一.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yanagawa.html",
+        "URL_2": ""
     },
     {
         "番号": "292",
@@ -2333,7 +2915,9 @@
         "年号": "1837年～1909年",
         "生年": "1837",
         "没年": "1909",
-        "画像": "images/柳田藤吉.jpg"
+        "画像": "images/柳田藤吉.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yanagida.html",
+        "URL_2": ""
     },
     {
         "番号": "293",
@@ -2341,7 +2925,9 @@
         "年号": "1893年～1955年",
         "生年": "1893",
         "没年": "1955",
-        "画像": "images/八幡関太郎.jpg"
+        "画像": "images/八幡関太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yahatase.html",
+        "URL_2": ""
     },
     {
         "番号": "294",
@@ -2349,134 +2935,178 @@
         "年号": "1885年～1954年",
         "生年": "1885",
         "没年": "1954",
-        "画像": "images/山崎松次郎.jpg"
+        "画像": "images/山崎松次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yamazaki.html",
+        "URL_2": ""
     },
     {
         "番号": "295",
+        "名前": "山中節治",
+        "年号": "1895年～1952年",
+        "生年": "1895",
+        "没年": "1952",
+        "画像": "images/unknown.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/03_sa/03-sekine-yamanaka.html",
+        "URL_2": ""
+    },
+    {
+        "番号": "296",
         "名前": "山本行雄",
         "年号": "1902年～1962年",
         "生年": "1902",
         "没年": "1962",
-        "画像": "images/山本行雄.jpg"
-    },
-    {
-        "番号": "296",
-        "名前": "リチャード・ユースデン",
-        "年号": "1830年～没年不詳",
-        "生年": "1830",
-        "没年": "",
-        "画像": "images/リチャード・ユースデン.jpg"
+        "画像": "images/山本行雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yamamoto.html",
+        "URL_2": ""
     },
     {
         "番号": "297",
+        "名前": "リチャード・ユースデン",
+        "年号": "1830年～没年不詳",
+        "生年": "#1830",
+        "没年": "",
+        "画像": "images/リチャード・ユースデン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-eusden.html",
+        "URL_2": ""
+    },
+    {
+        "番号": "298",
         "名前": "横山松三郎",
         "年号": "1838年～1884年",
         "生年": "1838",
         "没年": "1884",
-        "画像": "images/横山松三郎.jpg"
+        "画像": "images/横山松三郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yokoyama.html",
+        "URL_2": ""
     },
     {
-        "番号": "298",
+        "番号": "299",
         "名前": "吉岡憲",
         "年号": "1854年～1917年",
         "生年": "1854",
         "没年": "1917",
-        "画像": "images/吉岡憲.jpg"
+        "画像": "images/吉岡憲.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yoshioka.html",
+        "URL_2": ""
     },
     {
-        "番号": "299",
+        "番号": "300",
         "名前": "吉谷一次",
         "年号": "1898年～1990年",
         "生年": "1898",
         "没年": "1990",
-        "画像": "images/吉谷一次.jpg"
+        "画像": "images/吉谷一次.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yoshitani.html",
+        "URL_2": ""
     },
     {
-        "番号": "300",
+        "番号": "301",
         "名前": "ヨシフ・アントーノヴィチ・ゴシケーヴィチ",
         "年号": "1814～1875",
         "生年": "1814",
         "没年": "1875",
-        "画像": "images/ヨシフ・アントーノヴィチ・ゴシケーヴィチ.jpg"
+        "画像": "images/ヨシフ・アントーノヴィチ・ゴシケーヴィチ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yoshifu.html",
+        "URL_2": ""
     },
     {
-        "番号": "301",
+        "番号": "302",
         "名前": "四倉ミツエ",
         "年号": "1889年～1963年",
         "生年": "1889",
         "没年": "1963",
-        "画像": "images/四倉ミツエ.jpg"
+        "画像": "images/四倉ミツエ.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/08_ya/08-yotsukura.html",
+        "URL_2": ""
     },
     {
-        "番号": "302",
+        "番号": "303",
         "名前": "アダム・キリロヴィチ・ラクスマン",
         "年号": "1766年～1806年以降",
         "生年": "1766",
         "没年": "1806",
-        "画像": "images/アダム・キリロヴィチ・ラクスマン.jpg"
+        "画像": "images/アダム・キリロヴィチ・ラクスマン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/09_ra/09-laxman.html",
+        "URL_2": ""
     },
     {
-        "番号": "303",
+        "番号": "304",
         "名前": "カール・ワイデル・レイモン",
         "年号": "1894年～1987年",
         "生年": "1894",
         "没年": "1987",
-        "画像": "images/カール・ワイデル・レイモン.jpg"
+        "画像": "images/カール・ワイデル・レイモン.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/09_ra/09-reimon.html",
+        "URL_2": ""
     },
     {
-        "番号": "304",
+        "番号": "305",
         "名前": "ウィリアム・レニー",
         "年号": "1866年～1951年",
         "生年": "1866",
         "没年": "1951",
-        "画像": "images/ウィリアム・レニー.jpg"
+        "画像": "images/ウィリアム・レニー.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/09_ra/09-reni.html",
+        "URL_2": ""
     },
     {
-        "番号": "305",
+        "番号": "306",
         "名前": "若山惣太郎",
         "年号": "1855年～1917年",
         "生年": "1855",
         "没年": "1917",
-        "画像": "images/若山惣太郎.jpg"
+        "画像": "images/若山惣太郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-wakayamasou.html",
+        "URL_2": ""
     },
     {
-        "番号": "306",
+        "番号": "307",
         "名前": "2代目若山徳次郎",
         "年号": "1878年～1938年",
         "生年": "1878",
         "没年": "1938",
-        "画像": "images/2代目若山徳次郎.jpg"
+        "画像": "images/2代目若山徳次郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-wakayamatoku.html",
+        "URL_2": ""
     },
     {
-        "番号": "307",
+        "番号": "308",
         "名前": "鷲尾吾雄",
         "年号": "1901年～1974年",
         "生年": "1901",
         "没年": "1974",
-        "画像": "images/鷲尾吾雄.jpg"
+        "画像": "images/鷲尾吾雄.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-washiogo.html",
+        "URL_2": ""
     },
     {
-        "番号": "308",
+        "番号": "309",
         "名前": "渡邊熊四郎（初代）",
         "年号": "1840年～1907年",
         "生年": "1840",
         "没年": "1907",
-        "画像": "images/渡邊熊四郎（初代）.jpg"
+        "画像": "images/渡邊熊四郎（初代）.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-watanabe.html",
+        "URL_2": ""
     },
     {
-        "番号": "309",
+        "番号": "310",
         "名前": "渡辺紳一郎",
         "年号": "1900年～1978年",
         "生年": "1900",
         "没年": "1978",
-        "画像": "images/渡辺紳一郎.jpg"
+        "画像": "images/渡辺紳一郎.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-watanabeshin.html",
+        "URL_2": ""
     },
     {
-        "番号": "310",
+        "番号": "311",
         "名前": "和田芳恵",
         "年号": "1906年～1977年",
         "生年": "1906",
         "没年": "1977",
-        "画像": "images/和田芳恵.jpg"
+        "画像": "images/和田芳恵.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-wadayoshi.html",
+        "URL_2": ""
     }
 ]
