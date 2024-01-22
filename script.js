@@ -58,36 +58,38 @@ function drawChart(soukanData, timelineData) {
   var links = [];
 
   // soukan_all.json のデータをもとにリンクを追加
-  soukanData.forEach(function (d, i) {
-      var source = nodes.find(function (node) {
-          return node.name === d.言葉1;
-      });
+soukanData.forEach(function (d, i) {
+    var source = nodes.find(function (node) {
+        return node.name === d.言葉1;
+    });
 
-      var target = nodes.find(function (node) {
-          return node.name === d.名前1;
-      });
+    var target = nodes.find(function (node) {
+        return node.name === d.名前1;
+    });
 
-      if (source && target) {
-          // 既に同じソースとターゲットのリンクが存在するかチェック
-          var existingLink = links.find(function (link) {
-              return (link.source === source && link.target === target) || (link.source === target && link.target === source);
-          });
+    if (source && target) {
+        // 既に同じソースとターゲットのリンクが存在するかチェック
+        var existingLink = links.find(function (link) {
+            return (link.source === source && link.target === target) || (link.source === target && link.target === source);
+        });
 
-          if (existingLink) {
-              // 既に存在する場合はカウントを増やす
-              existingLink.count++;
-          } else {
-              // 新しいリンクを追加
-              links.push({
-                  id: "link" + i,
-                  source: source,
-                  target: target,
-                  count: 1
-              });
-          }
-      }
-  });
+        if (existingLink) {
+            // 既に存在する場合はカウントを増やす
+            existingLink.count++;
+        } else {
+            // 新しいリンクを追加
+            links.push({
+                id: "link" + i,
+                source: source,
+                target: target,
+                count: 1,  // デフォルト値
+                relation: d.カウント  // リンクに付与する "relation" は soukanData の値から取得
+            });
+        }
+    }
+});
 
+  console.log(links); // デバッグ用に links 配列をコンソールに出力
   // リンクで繋がっていないノードを削除
   var connectedNodeNames = new Set(links.flatMap(link => [link.source.name, link.target.name]));
   nodes = nodes.filter(node => connectedNodeNames.has(node.name));
@@ -307,6 +309,47 @@ svg.selectAll(".node")
     displayExtractedSentences(d);
     toggleNodeDetail(d);
     drawRedLines(d);
+   // 1. クリックされたノードに繋がるリンクを抽出
+   var connectedLinks = links.filter(link =>
+    link.source === d || link.target === d
+);
+
+// 2. クリックされたノードがソースノードであるリンクとターゲットノードであるリンクを取得
+var sourceNodeLinks = connectedLinks.filter(link => link.source === d);
+var targetNodeLinks = connectedLinks.filter(link => link.target === d);
+
+// 3. すべてのリンクを元のスタイルに戻す
+svg.selectAll(".link")
+.style("stroke", function (link) {
+    return link.count > 1 ? "blue" : "black";  // countが1より大きい場合は青色、それ以外は黒色
+})
+.style("stroke-width", 1);
+
+// 4. クリックされたノードの他のターゲットノードであるリンクをハイライト表示
+svg.selectAll(".link")
+.filter(link => targetNodeLinks.includes(link))
+.style("stroke", "red")
+.style("stroke-width", 1);
+
+// 5. ソースノードであるリンクのrelation値でハイライト表示
+svg.selectAll(".link")
+.filter(link => sourceNodeLinks.includes(link))
+.style("stroke", "red")  // 例えば赤色でハイライト表示
+.style("stroke-width", function (link) {
+    // ハイライトの明るさをrelation値で変更
+    return link.relation * 2;
+});
+
+// 6. 他のノードのハイライト解除
+svg.selectAll(".node")
+.select("rect")
+.style("stroke", "transparent");
+
+// 7. クリックされたノードをハイライト
+d3.select(this)
+.select("rect")
+.style("stroke", "red");
+
 });
 
 // 追加: 赤い線がクリックされたときの処理
