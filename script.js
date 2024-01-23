@@ -7,7 +7,8 @@ Promise.all([
   d3.json("soukan_all.json"),
   d3.json("timeline_all_new.json"),
   //d3.json("konba-to.json"),
-  d3.json("timeline_seireki.json")
+  //d3.json("timeline_seireki.json")
+  d3.json("timeline_seirekiari.json")
 ]).then(function (data) {
   // 各JSONデータの取得
   var soukanData = data[0];
