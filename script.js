@@ -92,8 +92,8 @@ soukanData.forEach(function (d, i) {
 
   console.log(links); // デバッグ用に links 配列をコンソールに出力
   // リンクで繋がっていないノードを削除
-  var connectedNodeNames = new Set(links.flatMap(link => [link.source.name, link.target.name]));
-  nodes = nodes.filter(node => connectedNodeNames.has(node.name));
+  //var connectedNodeNames = new Set(links.flatMap(link => [link.source.name, link.target.name]));
+  //nodes = nodes.filter(node => connectedNodeNames.has(node.name));
 
   // 初回描画時は生年順でソート
   nodes.sort(sortNodes);
@@ -406,6 +406,13 @@ function toggleNodeDetail(nodeData) {
             var urlLink = document.createElement("a");
             urlLink.href = matchingEntry.URL;
             urlLink.target = "_blank";  // 新しいタブで開く
+
+            // クリックしたときに新しいタブのサイズを制御
+            urlLink.addEventListener("click", function (event) {
+                event.preventDefault();  // デフォルトの動作をキャンセル
+                window.open(matchingEntry.URL, '_blank', 'width=screen.width/2,height=screen.height');
+            });
+
             urlLink.textContent = "元のサイト";
             urlSentenceContainer.appendChild(urlLink);
         }
@@ -415,6 +422,13 @@ function toggleNodeDetail(nodeData) {
             var url2Link = document.createElement("a");
             url2Link.href = matchingEntry.URL_2;
             url2Link.target = "_blank";  // 新しいタブで開く
+
+            // クリックしたときに新しいタブのサイズを制御
+            url2Link.addEventListener("click", function (event) {
+                event.preventDefault();  // デフォルトの動作をキャンセル
+                window.open(matchingEntry.URL_2, '_blank', 'width=screen.width/2,height=screen.height');
+            });
+
             url2Link.textContent = "元のサイト(後号）";
             urlSentenceContainer.appendChild(url2Link);
         }

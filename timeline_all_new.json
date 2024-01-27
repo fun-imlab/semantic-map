@@ -1736,7 +1736,7 @@
         "生年": "1875",
         "没年": "1936",
         "画像": "images/谷徳太郎.jpg",
-        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanisugita.html",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/04_ta/04-tanitoku.html",
         "URL_2": ""
     },
     {
@@ -3108,5 +3108,15 @@
         "画像": "images/和田芳恵.jpg",
         "URL": "http://www.zaidan-hakodate.com/jimbutsu/10_wa/10-wadayoshi.html",
         "URL_2": ""
+    },
+    {
+        "番号": "312",
+        "名前": "フローラ・リディア・べスト・ハリス",
+        "年号": "1850～1909",
+        "生年": "1850",
+        "没年": "1909",
+        "画像": "images/フローラ・リディア・べスト・ハリス.jpg",
+        "URL": "http://www.zaidan-hakodate.com/jimbutsu/01_a/01-emushi.html",
+        "URL_2": "http://www.zaidan-hakodate.com/jimbutsu/06_ha/06-furora.html"
     }
 ]
